@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>세무 정보 | 한결 세무회계</title>
+  <meta name="description" content="연간 세무 신고 달력, 사업자와 개인이 알아두면 좋은 세무 칼럼, 부가가치세 계산기를 제공합니다." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Noto+Serif+KR:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/common.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/pages.css" />
+</head>
+<body data-page="insights">
+  <div id="site-header"></div>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <ol class="breadcrumb"><li><a href="index.html">홈</a></li><li aria-current="page">세무 정보</li></ol>
+        <h1>세무 정보</h1>
+        <p>놓치면 손해 보는 신고 일정과 알아두면 돈이 되는 세무 상식을 정리했습니다.</p>
+      </div>
+    </section>
+
+    <nav class="subnav" aria-label="페이지 내 메뉴">
+      <div class="container">
+        <ul>
+          <li><a href="#calendar">연간 세무 달력</a></li>
+          <li><a href="#columns">세무 칼럼</a></li>
+          <li><a href="#calculator">부가세 계산기</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- 세무 달력 -->
+    <section class="section" id="calendar">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">연간 세무 달력</p>
+          <h2 id="calendarTitle">세무 신고 일정</h2>
+          <p class="section-desc">매년 반복되는 주요 신고·납부 기한입니다. 기한이 주말이면 다음 월요일로 표시했습니다.</p>
+        </div>
+        <div class="calendar-grid" id="calendarGrid"></div>
+        <p class="table-note">※ 공휴일, 결산월, 개별 사정에 따라 기한이 달라질 수 있습니다. 정확한 일정은 상담 시 확인해 드립니다.</p>
+      </div>
+    </section>
+
+    <!-- 칼럼 -->
+    <section class="section section-alt" id="columns">
+      <div class="container">
+        <div class="section-head reveal">
+          <p class="eyebrow">세무 칼럼</p>
+          <h2>알아두면 돈이 되는 세무 이야기</h2>
+          <p class="section-desc">상담에서 자주 나오는 주제를 세무사가 직접 쉽게 풀어 썼습니다.</p>
+        </div>
+        <div class="tabs reveal" role="tablist" aria-label="칼럼 분야" id="columnTabs"></div>
+        <div class="grid-3" id="columnGrid"></div>
+      </div>
+    </section>
+
+    <!-- 부가세 계산기 -->
+    <section class="section" id="calculator">
+      <div class="container calc-layout">
+        <div class="reveal">
+          <p class="eyebrow">부가세 계산기</p>
+          <h2>공급가액과 부가세,<br />바로 계산하세요</h2>
+          <p class="section-desc calc-desc">세금계산서 발행이나 견적서 작성 시 공급가액과 부가가치세(10%)를 간편하게 계산할 수 있습니다.</p>
+          <ul class="check-list">
+            <li><strong>공급가액 기준</strong>: 공급가액을 입력하면 부가세와 합계를 계산합니다.</li>
+            <li><strong>합계금액 기준</strong>: 부가세가 포함된 금액을 입력하면 공급가액과 부가세로 나눕니다.</li>
+          </ul>
+        </div>
+        <div class="calc reveal">
+          <div class="calc-mode" role="tablist" aria-label="계산 방식">
+            <button class="tab" role="tab" data-mode="supply" aria-selected="true">공급가액 기준</button>
+            <button class="tab" role="tab" data-mode="total" aria-selected="false">합계금액 기준</button>
+          </div>
+          <div class="field">
+            <label for="calcInput" id="calcLabel">공급가액</label>
+            <div class="calc-input">
+              <input type="text" id="calcInput" inputmode="numeric" placeholder="0" autocomplete="off" />
+              <span>원</span>
+            </div>
+          </div>
+          <dl class="calc-result">
+            <div><dt>공급가액</dt><dd id="resSupply">0원</dd></div>
+            <div><dt>부가가치세 (10%)</dt><dd id="resVat">0원</dd></div>
+            <div class="total"><dt>합계금액</dt><dd id="resTotal">0원</dd></div>
+          </dl>
+          <p class="calc-note">※ 원 단위 미만은 절사합니다. 면세·영세율 거래에는 적용되지 않습니다.</p>
+        </div>
+      </div>
+    </section>
+
+    <dialog class="modal" id="columnDialog" aria-labelledby="dialogTitle">
+      <div class="modal-inner">
+        <button class="modal-close" id="dialogClose" aria-label="닫기">×</button>
+        <span class="tag" id="dialogTag"></span>
+        <h2 id="dialogTitle"></h2>
+        <p class="column-date" id="dialogDate"></p>
+        <div class="column-body" id="dialogBody"></div>
+        <div class="column-cta">
+          <p>내 상황에 맞는 정확한 답이 필요하신가요?</p>
+          <a href="contact.html" class="btn btn-primary btn-sm" id="dialogCta">이 주제로 상담하기</a>
+        </div>
+        <p class="table-note">※ 일반적인 안내이며, 개별 상황과 세법 개정에 따라 달라질 수 있습니다.</p>
+      </div>
+    </dialog>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/insights.js"></script>
+</body>
+</html>

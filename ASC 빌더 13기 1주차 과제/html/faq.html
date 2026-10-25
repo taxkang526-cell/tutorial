@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>자주 묻는 질문 | 한결 세무회계</title>
+  <meta name="description" content="기장 수수료, 종합소득세, 법인 전환, 양도세 비과세, 증여세 공제, 세무조사까지 고객이 자주 묻는 세무 질문과 답변을 모았습니다." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Noto+Serif+KR:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/common.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/pages.css" />
+</head>
+<body data-page="faq">
+  <div id="site-header"></div>
+
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <ol class="breadcrumb"><li><a href="index.html">홈</a></li><li aria-current="page">자주 묻는 질문</li></ol>
+        <h1>자주 묻는 질문</h1>
+        <p>상담 중 가장 많이 받는 질문을 분야별로 정리했습니다. 찾으시는 답이 없다면 편하게 문의해 주세요.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container narrow">
+        <div class="faq-search reveal">
+          <label for="faqSearch" class="sr-only">질문 검색</label>
+          <input type="search" id="faqSearch" placeholder="궁금한 내용을 검색해 보세요 (예: 프리랜서, 증여, 수수료)" autocomplete="off" />
+          <span class="faq-search-icon" aria-hidden="true">🔍</span>
+        </div>
+
+        <div class="tabs reveal" role="tablist" aria-label="질문 분야" id="faqTabs">
+          <button class="tab" role="tab" data-cat="all" aria-selected="true">전체</button>
+          <button class="tab" role="tab" data-cat="bookkeeping" aria-selected="false">기장·부가세</button>
+          <button class="tab" role="tab" data-cat="income" aria-selected="false">종합소득세</button>
+          <button class="tab" role="tab" data-cat="corporate" aria-selected="false">법인</button>
+          <button class="tab" role="tab" data-cat="transfer" aria-selected="false">양도소득세</button>
+          <button class="tab" role="tab" data-cat="inheritance" aria-selected="false">상속·증여</button>
+          <button class="tab" role="tab" data-cat="audit" aria-selected="false">세무조사</button>
+          <button class="tab" role="tab" data-cat="etc" aria-selected="false">상담·기타</button>
+        </div>
+
+        <p class="faq-count" id="faqCount" aria-live="polite"></p>
+
+        <div class="acc-list faq-list" id="faqList">
+          <!-- 기장·부가세 -->
+          <div class="acc-item" data-cat="bookkeeping">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>기장 수수료는 얼마인가요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>업종, 매출 규모, 거래 건수, 직원 수에 따라 달라집니다. 개인사업자는 월 10만 원대부터 시작하며, 상담 시 자료를 보고 정확한 견적을 서면으로 안내해 드립니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="bookkeeping">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>간편장부 대상자도 기장을 맡기는 게 좋나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>간편장부 대상자가 복식부기로 장부를 작성해 신고하면 산출세액의 20%(100만 원 한도)를 기장세액공제로 받을 수 있습니다. 또한 적자가 난 해에는 장부가 있어야 결손금을 인정받아 다음 해 이익과 상계할 수 있어, 개업 초기일수록 기장의 효과가 큽니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="bookkeeping">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>매달 어떤 자료를 보내야 하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>전자세금계산서, 사업용 카드, 현금영수증 내역은 홈택스에서 자동으로 조회하므로 따로 보내주실 필요가 없습니다. 아래 자료만 챙겨주시면 됩니다.</p>
+              <ul>
+                <li>종이 세금계산서·계산서, 간이영수증</li>
+                <li>개인 카드로 결제한 사업 경비 내역</li>
+                <li>직원 입·퇴사 및 급여 변동 사항</li>
+              </ul>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="bookkeeping">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>다른 세무사무실에서 옮겨와도 되나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>물론입니다. 기존 장부 인수인계와 홈택스 수임 변경은 저희가 직접 처리해 드립니다. 기존 사무실에 따로 연락하실 필요가 없으며, 중간 이전도 가능합니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="bookkeeping">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>개인사업자는 4월에 부가세 신고를 안 해도 되나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>개인 일반과세자는 4월·10월에 예정신고 대신 직전 기 납부세액의 50%를 고지받아 납부하는 것이 원칙입니다. 다만 매출이 크게 줄었거나 시설 투자로 환급받을 세액이 있는 경우에는 예정신고를 선택하는 것이 유리할 수 있습니다.</p>
+            </div></div>
+          </div>
+
+          <!-- 종합소득세 -->
+          <div class="acc-item" data-cat="income">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>프리랜서(3.3%)도 종합소득세를 신고해야 하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>네. 3.3%는 미리 낸 세금일 뿐 최종 세금이 아니므로, 다음 해 5월에 종합소득세를 신고해 정산해야 합니다. 경비와 공제를 반영하면 미리 낸 세금 중 일부를 환급받는 경우가 많습니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="income">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>직장인인데 연말정산을 했어도 신고해야 하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>근로소득만 있다면 연말정산으로 마무리됩니다. 하지만 사업소득, 프리랜서 소득, 임대소득, 일정 금액을 넘는 금융소득 등 다른 종합소득이 있다면 근로소득과 합산해 5월에 신고해야 합니다. 연말정산 때 놓친 공제도 이때 반영할 수 있습니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="income">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>성실신고확인 대상자는 누구인가요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>해당 연도 수입금액이 업종별 기준 이상인 개인사업자입니다. 도·소매업 등은 15억 원, 제조·음식·숙박업 등은 7억 5천만 원, 서비스업 등은 5억 원이 기준입니다. 대상자는 세무사의 확인을 받아 6월 30일까지 신고합니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="income">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>신고 기한을 놓쳤어요. 어떻게 하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>최대한 빨리 기한 후 신고를 하시는 것이 좋습니다. 무신고 가산세와 납부지연 가산세가 붙지만, 법정신고기한 경과 후 1개월 이내에 신고하면 무신고 가산세의 50%, 3개월 이내 30%, 6개월 이내 20%를 감면받을 수 있습니다.</p>
+            </div></div>
+          </div>
+
+          <!-- 법인 -->
+          <div class="acc-item" data-cat="corporate">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>법인 전환은 언제 하는 게 좋나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>정해진 기준은 없지만, 일반적으로 이익이 꾸준히 늘어 높은 소득세율 구간에 해당하거나, 투자 유치·대외 신용이 필요할 때 검토합니다. 법인 자금을 개인이 가져갈 때 다시 세금이 붙고 관리 비용도 늘어나므로, 반드시 전환 전후 세 부담을 비교해 보셔야 합니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="corporate">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>법인 통장의 돈을 대표가 써도 되나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>법인의 자금은 대표 개인의 돈이 아닙니다. 증빙 없이 인출하면 가지급금으로 처리되어 인정이자 계산, 비용 불인정 등 불이익이 생길 수 있습니다. 대표가 자금을 가져가려면 급여, 상여, 배당 등 정해진 방법을 이용하는 것이 좋습니다.</p>
+            </div></div>
+          </div>
+
+          <!-- 양도 -->
+          <div class="acc-item" data-cat="transfer">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>1세대 1주택 비과세 요건은 무엇인가요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>양도일 현재 1세대가 국내에 1주택을 보유하고, 2년 이상 보유해야 합니다. 취득 당시 조정대상지역이었다면 2년 이상 거주 요건도 필요합니다. 양도가액이 12억 원을 넘는 고가주택은 초과분에 대해 과세됩니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="transfer">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>양도소득세는 언제까지 신고하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>부동산은 양도일이 속하는 달의 말일부터 2개월 이내에 예정신고를 해야 합니다. 같은 해에 여러 건을 양도했다면 다음 해 5월에 확정신고로 합산합니다. 비과세 대상이라도 요건 확인을 위해 상담을 받아보시길 권합니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="transfer">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>해외주식을 팔아 수익이 났어요.</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>해외주식 양도차익은 1년간의 손익을 합산해 연 250만 원을 공제한 뒤, 지방소득세를 포함해 22%의 세율로 과세됩니다. 다음 해 5월에 신고·납부하며, 같은 해 손실이 난 종목이 있다면 이익과 통산할 수 있습니다.</p>
+            </div></div>
+          </div>
+
+          <!-- 상속증여 -->
+          <div class="acc-item" data-cat="inheritance">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>자녀에게 세금 없이 줄 수 있는 금액은 얼마인가요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>직계존속이 증여하는 경우 10년간 성년 자녀는 5천만 원, 미성년 자녀는 2천만 원까지 증여재산공제를 받을 수 있습니다. 혼인·출산 시에는 요건을 갖추면 최대 1억 원이 추가로 공제됩니다. 공제 범위 이내라도 신고해 두면 나중에 자금 출처를 증명하기 쉽습니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="inheritance">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>상속세는 언제까지 신고해야 하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>상속개시일(사망일)이 속한 달의 말일부터 6개월 이내에 신고해야 합니다. 피상속인이나 상속인 전원이 해외에 주소를 둔 경우에는 9개월입니다. 재산 조사와 평가에 시간이 걸리므로 가능한 빨리 준비를 시작하시는 것이 좋습니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="inheritance">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>부모님께 돈을 빌리면 증여가 되나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>실제로 빌리고 갚는 거래라면 증여가 아닙니다. 다만 가족 간 거래는 증여로 의심받기 쉬우므로 차용증 작성, 약정한 이자 지급, 원금 상환 기록을 남겨야 합니다. 이자율이 법정 적정이자율보다 낮으면 차액이 증여로 볼 수 있으니 사전에 상담받으시길 권합니다.</p>
+            </div></div>
+          </div>
+
+          <!-- 세무조사 -->
+          <div class="acc-item" data-cat="audit">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>세무조사 통지를 받았어요. 무엇부터 해야 하나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>세무조사는 원칙적으로 개시 15일 전까지 통지됩니다. 통지서의 조사 대상 세목과 기간을 확인한 뒤, 해당 기간의 장부와 증빙을 정리하세요. 정당한 사유가 있으면 연기 신청도 가능합니다. 가능한 빨리 세무대리인과 상의하시는 것이 좋습니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="audit">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>예전에 낸 세금이 많았던 것 같아요. 돌려받을 수 있나요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>법정신고기한부터 5년 이내라면 경정청구를 통해 과다 납부한 세금을 돌려받을 수 있습니다. 누락된 공제, 잘못 계산된 경비 등이 있는지 과거 신고서를 검토해 드립니다.</p>
+            </div></div>
+          </div>
+
+          <!-- 상담·기타 -->
+          <div class="acc-item" data-cat="etc">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>첫 상담은 무료인가요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>네, 첫 상담 30분은 무료입니다. 복잡한 사안의 경우 상담 후 별도 검토 비용이 필요할 수 있으며, 이 경우 반드시 사전에 안내해 드립니다.</p>
+            </div></div>
+          </div>
+          <div class="acc-item" data-cat="etc">
+            <button class="acc-q" aria-expanded="false"><span class="q-mark">Q</span>방문하지 않고도 상담이 가능한가요?</button>
+            <div class="acc-a"><div class="acc-a-inner">
+              <p>네. 전화, 카카오톡, 화상 상담 모두 가능합니다. 자료는 이메일이나 홈택스 수임 동의로 받아 처리하므로 전국 어디서든 이용하실 수 있습니다.</p>
+            </div></div>
+          </div>
+        </div>
+
+        <div class="faq-empty" id="faqEmpty" hidden>
+          <p>검색 결과가 없습니다.</p>
+          <span>다른 단어로 검색하시거나, 직접 문의해 주세요.</span>
+        </div>
+
+        <aside class="faq-ask reveal">
+          <div>
+            <h3>원하는 답을 찾지 못하셨나요?</h3>
+            <p>상황을 알려주시면 담당 세무사가 직접 답변드립니다.</p>
+          </div>
+          <a href="contact.html" class="btn btn-primary">직접 물어보기</a>
+        </aside>
+
+        <p class="table-note">※ 일반적인 안내이며, 개별 상황과 세법 개정에 따라 달라질 수 있습니다.</p>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="js/layout.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/faq.js"></script>
+</body>
+</html>
