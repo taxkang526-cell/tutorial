@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node tax-monitor/scripts/fetch.mjs:*)",
+      "Bash(node tax-monitor/scripts/state.mjs:*)",
+      "Bash(node tax-monitor/scripts/merge-summaries.mjs:*)",
+      "Read(tax-monitor/**)",
+      "Edit(tax-monitor/runs/**)",
+      "Edit(tax-monitor/reports/**)",
+      "mcp__claude_ai_Notion__notion-create-pages",
+      "mcp__claude_ai_Notion__notion-fetch"
+    ]
+  }
+}

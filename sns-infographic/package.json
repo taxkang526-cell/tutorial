@@ -1,0 +1,1 @@
+{"name":"sns-infographic","private":true,"type":"module","dependencies":{"@resvg/resvg-js":"2.6.2","vega":"6.4.0","vega-lite":"6.5.0"}}

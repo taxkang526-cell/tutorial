@@ -1,0 +1,2540 @@
+{
+  "runDate": "2026-10-25-2",
+  "from": "20261018",
+  "to": "20261025",
+  "generatedAt": "2026-10-25T13:29:08.301Z",
+  "listedTotal": 95,
+  "uniqueListed": 95,
+  "newCount": 91,
+  "byGroup": {
+    "판례": 55,
+    "심판·심사례": 30,
+    "해석례": 6
+  },
+  "byClass": {
+    "판례": 55,
+    "심판청구": 29,
+    "심사청구": 1,
+    "과세기준자문": 1,
+    "사전답변": 3,
+    "질의회신": 2
+  },
+  "highHints": 21,
+  "warnings": [],
+  "items": [
+    {
+      "docId": "200000000000023843",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "서울중앙지방법원-2026-가단-32886",
+      "replyNo": "",
+      "title": "승강기의 교체공사 용역인 이 사건 공사는 부가가치세 면제대상인 ‘건설용역’에 포함되지 아니한다",
+      "gist": "승강기의 교체공사 용역인 이 사건 공사는 부가가치세 면제대상인 ‘건설용역’에 포함되지 아니한다",
+      "producedDate": "2026-09-22",
+      "registeredAt": "20261018110711",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023843",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제106조 제1항 제4호"
+      ],
+      "keywords": [
+        "승강기 교체공사 용역"
+      ],
+      "textLength": 6462,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023843.md"
+    },
+    {
+      "docId": "200000000000023842",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "서울중앙지방법원-2025-가단-118571",
+      "replyNo": "",
+      "title": "건축중인 건물이 독립한 건물 형태를 갖추었다고 인정되는 시점에 이를 원시취득하였다고 봄이 타당하다",
+      "gist": "이 사건 각 대지의 소유권을 취득하고 이 사건 건물에 관한 권리를 취득할 무렵인 2025. 6 내지 7.경보다 훨씬 이전인 2024. 5경에 이미 이 사건 건물은 지상 9층까지 콘크리트 골조와 기둥, 천장 공사가 완료되어 독립한 건물 형태를 갖추었다고 인정하기에 충분하므로, 그 이후에 원고가 피고 회사로부터 이를 양수하기로 하였다는 점은 다른 특별한 사정이 없는 한 이미 법률적으로 유효하게 피고 회사에 귀속된 이 사건 건물의 소유권에 영향을 미칠 수 없다",
+      "producedDate": "2026-09-04",
+      "registeredAt": "20261018102326",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023842",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제31조"
+      ],
+      "keywords": [
+        "원시취득"
+      ],
+      "textLength": 4600,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023842.md"
+    },
+    {
+      "docId": "200000000000023829",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "법인세",
+      "docNo": "대법원-2026-두-31345",
+      "replyNo": "",
+      "title": "(심리불속행) 토지 교환거래, 환매조건부거래,위약금에 대한 매출누락 및 소득처분",
+      "gist": "(원심 요지) 토지 교환거래, 환매조건부거래, 위약금에 대한 매출누락이 인정되고 소득처분은 대표자상여에 해당함",
+      "producedDate": "2026-10-08",
+      "registeredAt": "20261019163550",
+      "sourceOrg": "대법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023829",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "법인세법 제15조"
+      ],
+      "keywords": [
+        "매출누락"
+      ],
+      "textLength": 610,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023829.md"
+    },
+    {
+      "docId": "200000000000023865",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세기본",
+      "docNo": "대법원-2026-두-31398",
+      "replyNo": "",
+      "title": "(심리불속행)중복제보인 탈세제보에 대하여 과세활용된 사항임을 안내한 탈세제보 처리결과 통지는 적법함",
+      "gist": "중복제보인 탈세제보에 대하여 과세활용된 사항임을 안내한 탈세제보 처리결과 통지는 적법함",
+      "producedDate": "2026-10-08",
+      "registeredAt": "20261019092637",
+      "sourceOrg": "대법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023865",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "국세기본법 제84조의2"
+      ],
+      "keywords": [
+        "중복제보"
+      ],
+      "textLength": 639,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023865.md"
+    },
+    {
+      "docId": "200000000000023782",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "대법원-2026-두-31251",
+      "replyNo": "",
+      "title": "(심리불속행) 금전무상대출 등에 따른 이익 및 특정법인과의 거래 이익의 증여",
+      "gist": "(원심 요지) 금전무상대출 등에 따른 이익의 증여에 해당하고 특정법인과의 거래를 통한 이익의 증여의제 대상에 해당하므로 이 사건 처분 적법함",
+      "producedDate": "2026-10-08",
+      "registeredAt": "20261019085001",
+      "sourceOrg": "대법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023782",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "상속세 및 증여세법 제41조의4",
+        "상속세 및 증여세법 제45조의5"
+      ],
+      "keywords": [
+        "금전무상대출, 특정법인"
+      ],
+      "textLength": 622,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023782.md"
+    },
+    {
+      "docId": "200000000000023835",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "대법원-2026-두-31672",
+      "replyNo": "",
+      "title": "(심리불속행) 이 사건 매매사례가액이 이 사건 아파트의 시가로 사용하기 어려운 가액에 해당한다고 인정하기 어려움",
+      "gist": "(원심 요지) 비교대상아파트에 대한 거래가액이 구 상증세법시행령 제49조제1항제1호 단서 가목이 정한 ‘특수관계인과의 거래 등으로 그 거래가액이 객관적으로 부당하다고 인정되는 경우’이어서 시가로 사용하기 어려운 가액에 해당한다고 인정하기 어렵고, 달리 이를 인정할 만한 사정이 없다.",
+      "producedDate": "2026-10-08",
+      "registeredAt": "20261019141451",
+      "sourceOrg": "대법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023835",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "상속세 및 증여세법 시행령 제49조"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 320,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023835.md"
+    },
+    {
+      "docId": "200000000000023766",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "대법원-2026-두-31178",
+      "replyNo": "",
+      "title": "(심리불속행)이 사건 건물의 소유자에 해당하지 아니하는 원고가 이 사건 건물의 부지를 사용하였다고 볼 수는 없고, 단지 원고가 이 사건 건물 지분을 취득한 이후부터 원고가 취득한 지분에 해당하는 범위 내에서만 그 사용을 인정할 수 있음",
+      "gist": "(원심 요지)이 사건 토지 중 원고의 소유가 아니었던 이 사건 건물의 부지에 해당하는 부분과 그렇지 않은 부분을 구분하지 아니하고 원고가 2009. 7. 1.부터 이 사건 토지 전체를 점유하고 있음을 전제로 하여 쟁점 토지를 무상으로 사용하는 이익을 얻은 것으로 보아 증여세를 과세한 이 사건 처분은 위법함",
+      "producedDate": "2026-10-06",
+      "registeredAt": "20261019164254",
+      "sourceOrg": "대법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023766",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "상속세 및 증여세법 제37조"
+      ],
+      "keywords": [
+        "토지무상사용이익"
+      ],
+      "textLength": 661,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023766.md"
+    },
+    {
+      "docId": "200000000000023765",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "양도소득세",
+      "docNo": "서울고등법원-2025-누-8630",
+      "replyNo": "",
+      "title": "명의신탁관계는 반드시 신탁자와 수탁자 간의 명시적 계약에 의하여서만 성립되는 것이 아니라 묵시적 합의에 의하여서도 성립될 수 있음",
+      "gist": "(1심 판결과 같음)이 사건 명의신탁이 이 사건 회사의 직원 등의 의사와 관계없이 원고의 일방적인 행위로 이루어졌음을 인정하기 부족하며, 원고 주장하는 사유만으로 이 사건 각 주식의 명의신탁에 조세회피와 상관없는 뚜렷한 목적이 있었음을 인정하기 어려움",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261019163620",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023765",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제4조"
+      ],
+      "keywords": [
+        "명의신탁"
+      ],
+      "textLength": 613,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023765.md"
+    },
+    {
+      "docId": "200000000000023823",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세징수",
+      "docNo": "서울고등법원-2022-나-2008953",
+      "replyNo": "",
+      "title": "소유권에 기한 방해배제청구권으로서 소유권이전등기의 말소등기를 구하는 경우 무효등기에 터 잡은 압류등기자는 승낙의 의무가 있음",
+      "gist": "소유권이전등기가 원인무효 등기인 경우 소유권이전등기 명의자는 말소등기절차를 이행할 의무가 있고, 위 소유권이전등기를 전제로 압류등기를 마친 대한민국은 위 말소등기에 대해 승낙의 의사표시를 할 의무가 있음",
+      "producedDate": "2026-09-17",
+      "registeredAt": "20261019130622",
+      "sourceOrg": "고등법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023823",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(국패)",
+      "statutes": [
+        "국세징수법 제31조"
+      ],
+      "keywords": [
+        "압류등기 승낙의무"
+      ],
+      "textLength": 21831,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023823.md"
+    },
+    {
+      "docId": "200000000000023771",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "인천지방법원-2025-가단-218176",
+      "replyNo": "",
+      "title": "사해행위 취소로 인한 소유권 이전등기",
+      "gist": "이 사건 피고의 법정상속지분 포기는 사해행위에 해당하고, 소가 상당액에 해당하는 체납액 임의 납부는 소의이익을 상실시키지 아니함",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261019164748",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023771",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제25조"
+      ],
+      "keywords": [
+        "사해행위취소"
+      ],
+      "textLength": 3040,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023771.md"
+    },
+    {
+      "docId": "200000000000023812",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "부가가치세",
+      "docNo": "서울행정법원-2025-구합-53331",
+      "replyNo": "",
+      "title": "사실과 다른 현금영수증 관련 매입세액은 불공제함",
+      "gist": "원고가 이 사건 각 현금영수증의 공급자 명의가 위장되었다는 사실을 알지 못한 데에 과실이 없다고 인정하기에 부족하고, 일반적인 거래관행상 알아야 할 거래상대방의 정보에 대하여 주의의무를 다하지 못한 것으로 볼 수 있음.",
+      "producedDate": "2026-09-11",
+      "registeredAt": "20261019141804",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023812",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "부가가치세법 제32조"
+      ],
+      "keywords": [
+        "현금영수증"
+      ],
+      "textLength": 4374,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023812.md"
+    },
+    {
+      "docId": "200000000000023822",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세징수",
+      "docNo": "서울남부지방법원-2026-가단-202696",
+      "replyNo": "",
+      "title": "배당이의",
+      "gist": "전세금반환채권의 경우 그 설정일이 당해세의 법정기일보다 앞서므로 국세기본법 제35조 제7항은 같은 법 제35조 제3항의 예외규정에 해당하므로 원고의 전세금반환채권은 이 사건 부동산의 소유자인 체납세액에 우선함",
+      "producedDate": "2026-09-02",
+      "registeredAt": "20261019125823",
+      "sourceOrg": "지방법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023822",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(국패)",
+      "statutes": [
+        "국세기본법 제35조"
+      ],
+      "keywords": [
+        "배당이의"
+      ],
+      "textLength": 3108,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023822.md"
+    },
+    {
+      "docId": "200000000000023783",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "양도소득세",
+      "docNo": "서울고등법원-2025-누-8075",
+      "replyNo": "",
+      "title": "이 사건 주택 양도일 현재 쟁점 오피스텔이 주거용으로 사용되었는지 여부",
+      "gist": "이 사건 오피스텔은 이 사건 주택 양도 당시 사실상 주거용으로 사용되었다고 봄이 타당함",
+      "producedDate": "2026-08-21",
+      "registeredAt": "20261019085050",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023783",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제89조",
+        "소득세법 시행령 제154조"
+      ],
+      "keywords": [
+        "주거용 오피스텔"
+      ],
+      "textLength": 2859,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023783.md"
+    },
+    {
+      "docId": "200000000000023836",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울고등법원-2025-누-7664",
+      "replyNo": "",
+      "title": "특수관계인 해당 여부를 판단하는 기준시점은 매매계약일임",
+      "gist": "구 상증세법 제35조 제1항의 입법취지에 비추어 보면, 시가와 기준금액 이상의 차이가 발생한 대가가 결정된 시점, 즉 ‘계약 체결일’을 기준으로 특수관계인 해당 여부를 판단하여야 한다고 봄이 타당함",
+      "producedDate": "2026-08-21",
+      "registeredAt": "20261019132001",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023836",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제35조 제1항"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 4911,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023836.md"
+    },
+    {
+      "docId": "200000000000023785",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "양도소득세",
+      "docNo": "서울행정법원-2025-구단-54585",
+      "replyNo": "",
+      "title": "1세대1주택 비과세 특례 적용 여부",
+      "gist": "원고의 이 사건 종전주택 양도에 이 사건 시행령 조항에 따른 일시적 2주택자에 대한 1세대1주택 비과세 특례를 적용할 수 없으므로, 원고의 주장은 받아들일 수 없고, 이 사건 처분은 적법함",
+      "producedDate": "2026-08-21",
+      "registeredAt": "20261019085325",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023785",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제89조",
+        "소득세법 시행령 제154조",
+        "소득세법 시행령 제155조"
+      ],
+      "keywords": [
+        "1세대1주택 비과세 특례"
+      ],
+      "textLength": 4739,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023785.md"
+    },
+    {
+      "docId": "200000000000023893",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "전주지방법원-2025-구합-1188",
+      "replyNo": "",
+      "title": "다단계 폰지사기 투자자가 수령한 수익금은 비영업대금의 이익으로서 이자소득에 해당함",
+      "gist": "다단계 폰지사기 투자자가 실제 수령한 수익금은 계약의 유무효와 무관하게 비영업대금의 이익으로서 이자소득에 해당하고, 회수불능 사유가 과세표준 확정신고기한 이후에 발생한 이상 과세표준 산정 근거자료가 충분히 입증된 이 사건 과세처분은 적법함.",
+      "producedDate": "2026-08-13",
+      "registeredAt": "20261019170301",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023893",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제16조 제1항 제11호",
+        "소득세법 제19조 제1항 제11호",
+        "소득세법 시행령 제51조 제7항"
+      ],
+      "keywords": [
+        "폰지사기; 이자소득"
+      ],
+      "textLength": 9802,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023893.md"
+    },
+    {
+      "docId": "200000000000023799",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합부동산세",
+      "docNo": "조심-2026-서-1754",
+      "replyNo": "",
+      "title": "쟁점주택이 종합부동산세 합산배제 대상에 해당하지 않는 것으로 보아 종합부동산세를 부과한 처분의 당부",
+      "gist": "처분청이 쟁점주택을 주택분 종합부동산세 과세표준 합산배제 대상이 아닌 것으로 보아 청구인에게 종합부동산세를 부과한 처분은 달리 잘못이 없는 것으로 판단됨.",
+      "producedDate": "2026-08-05",
+      "registeredAt": "20261019182632",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023799",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "종합부동산세법 시행령 제3조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 10701,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023799.md"
+    },
+    {
+      "docId": "200000000000023800",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "양도소득세",
+      "docNo": "조심-2025-서-3751",
+      "replyNo": "",
+      "title": "이 건 심판청구가 적법한 청구인지 여부",
+      "gist": "이 건 심판청구는 부적법한 청구에 해당함",
+      "producedDate": "2026-08-05",
+      "registeredAt": "20261019182648",
+      "sourceOrg": "조세심판원",
+      "decision": "각하",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023800",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제55조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 1605,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023800.md"
+    },
+    {
+      "docId": "200000000000023833",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울고등법원-2025-누-8497",
+      "replyNo": "",
+      "title": "이 사건 매매사례가액이 이 사건 아파트의 시가로 사용하기 어려운 가액에 해당한다고 인정하기 어려움",
+      "gist": "비교대상아파트에 대한 거래가액이 구 상증세법시행령 제49조제1항제1호 단서 가목이 정한 ‘특수관계인과의 거래 등으로 그 거래가액이 객관적으로 부당하다고 인정되는 경우’이어서 시가로 사용하기 어려운 가액에 해당한다고 인정하기 어렵고, 달리 이를 인정할 만한 사정이 없다.",
+      "producedDate": "2026-07-10",
+      "registeredAt": "20261019091027",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023833",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 시행령 제49조"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 9915,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023833.md"
+    },
+    {
+      "docId": "200000000000023895",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "법인세",
+      "docNo": "광주고등법원-2025-누-10220",
+      "replyNo": "",
+      "title": "불이익변경금지 원칙 위반인지 여부에 대한 판단",
+      "gist": "조세심판원의 재조사결정의 취지에 따른  제2차 처분(후속처분)을 하였지만 제1차 처분보다 증액된 부분이 있다면, 이는 불이익변경금지원칙에 위반되어 위법함.",
+      "producedDate": "2026-07-09",
+      "registeredAt": "20261019182142",
+      "sourceOrg": "고등법원",
+      "decision": "일부국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023895",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(일부국패)",
+      "statutes": [
+        "국세기본법 제79조"
+      ],
+      "keywords": [
+        "불이익변경금지 원칙 위반 여부에 대한 판단"
+      ],
+      "textLength": 7161,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023895.md"
+    },
+    {
+      "docId": "200000000000023840",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "대법원-2026-두-30621",
+      "replyNo": "",
+      "title": "(심리불속행) 명의신탁 약정이 있었다거나 망인이 소유자라는 점을 인정하기 어렵고, 상속세 과세대상에 해당여부는 사법상 소유관계에 따라야 함",
+      "gist": "(원심요지) 망인이 부동산과 주식의 소유자라고 볼 수 없고, 명의신탁 합의가 있었다는 증거가 없으며, 망인이 관리·처분·운용을 했어도 이는 지배주주로서 권리를 행사한 것으로 망인이 부동산 등의 소유자라는 점을 인정하기 힘들고, 상속세 과세대상에 해당여부는 사법상 소유관계에 따라야 함",
+      "producedDate": "2026-06-25",
+      "registeredAt": "20261019092136",
+      "sourceOrg": "대법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023840",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "상속세및증여세법 제1조"
+      ],
+      "keywords": [
+        "명의신탁,실질과세"
+      ],
+      "textLength": 634,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023840.md"
+    },
+    {
+      "docId": "200000000000023841",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "대법원-2026-두-30663",
+      "replyNo": "",
+      "title": "(심리불속행) 이 사건 주식평가 관련 부동산 처분손익은 일시우발적 소득임",
+      "gist": "(원심요지) 해당부동산은 유형자산에 해당한다고 볼 여지가 크며, 유형자산 처분손익은 일시·우발적으로 볼 수 있어 주식평가에 있어 1주당 순손익액을 최근 3년간 가중평균액으로 산정하는 것은 위법 등이 있음",
+      "producedDate": "2026-06-25",
+      "registeredAt": "20261019092157",
+      "sourceOrg": "대법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023841",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "상속세및증여세법 제3조"
+      ],
+      "keywords": [
+        "주식평가"
+      ],
+      "textLength": 361,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023841.md"
+    },
+    {
+      "docId": "200000000000023787",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울행정법원2024구합56313",
+      "replyNo": "",
+      "title": "상속재산인 미술품의 평가와 피상속인 명의로 공유등기된 외국소재 부동산의 상속재산 포함 여부",
+      "gist": "이 사건 신규증액 약정에 따른 가격을 미술품의 상속개시일 당시 시가로 본 처분은 적법하며,  프랑스 소재 부동산은 민사법적으로 외국배우자의 특유재산이므로 피상속인의 상속재산이라 볼 수 없다하더라도, 실질과세원칙이 적용되는 세법의 관점에서는 포괄적 공동재산제 약정에 따라 부부공유재산이 되었다고 봄이 타당함",
+      "producedDate": "2026-06-24",
+      "registeredAt": "20261019090458",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023787",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제2조",
+        "상속세 및 증여세법 제60조",
+        "국제사법 제65조 제2항 ",
+        "민법 제830조 제2항",
+        "「민법」 제562조",
+        "「신탁법」 제59조",
+        "「신탁법」 제60조",
+        "민사소송법 제71조"
+      ],
+      "keywords": [
+        "부부재산공유제, 외국소재 부동산, 섭외사법, 준거법, 상속재산"
+      ],
+      "textLength": 13677,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023787.md"
+    },
+    {
+      "docId": "200000000000023854",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "부가가치세",
+      "docNo": "서울고등법원2025누8078",
+      "replyNo": "",
+      "title": "가공거래, 허위세금계산서, 사실과다른 세금계산서인지 여부",
+      "gist": "(1심판결과 같음) 원고가 제시한 용역보고서, 이메일, 메신저 내역만으로는 구체적으로 언제 어떠한 방법으로 컨설팅과 자문업무를 수행했는지 확인하기 어렵다고 판단함. 원고의 증명책임전환주장, 실제용역 공급주장, 경험칙 위반 주장, 법인격 부인 주장 모두 배척함.",
+      "producedDate": "2026-06-11",
+      "registeredAt": "20261019094248",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023854",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "행정소송법 제8조 제2항",
+        "민사소송법 제420조 "
+      ],
+      "keywords": [
+        "사실과다른 세금계산서인지"
+      ],
+      "textLength": 2021,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023854.md"
+    },
+    {
+      "docId": "200000000000023827",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "양도소득세",
+      "docNo": "대법원-2025-두-35546",
+      "replyNo": "",
+      "title": "분할후 취득한 주식의 기준시가에 의한 취득가액 산정시 분할전 법인의 취득시기를 기준으로 함",
+      "gist": "분할법인의 주주가 적격분할 요건을 갖춘 인적분할로 취득한 분할신설법인 주식을 양도하여 발생한 양도차익을 기준시가에 의해 계산함에 있어, 위 분할신설법인 주식의 취득에 관하여 의제배당으로 과세가 이루어지지 않은 경우, 그 취득가액은 특별한 사정이 없는 한 분할법인의 주식을 취득하였을 당시 해당 분할법인 주식의 기준시가로 봄이 상당함",
+      "producedDate": "2026-06-05",
+      "registeredAt": "20261019092000",
+      "sourceOrg": "대법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023827",
+      "importanceHint": "high",
+      "hintReason": "대법원 판단",
+      "statutes": [
+        "소득세법 제99조"
+      ],
+      "keywords": [
+        "주식의 취득가액"
+      ],
+      "textLength": 7396,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023827.md"
+    },
+    {
+      "docId": "200000000000023834",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울행정법원-2025-구합-54450",
+      "replyNo": "",
+      "title": "세무조사결과통지 관련 절차적 하자가 있다고 볼 수 없고, 신탁재산에 대한 신탁계약 체결 시 원본의 이익 가액이 확정되어 있다고 보기 어려워 원본이 최초로 지급된 날을 증여일로도 볼 수 없음",
+      "gist": "납세자는 2차 세무조사결과통지를 통해 세무조사 결과를 인지하고 불복절차를 통해 권리구제 절차를 진행한바, 세무조사결과통지 관련 절차적 하자가 있다고 볼 수 없으며, 신탁재산에 대한 신탁계약 체결 시 원본의 이익 가액이 확정되어 있다고 보기 어려워 원본이 최초로 지급된 날을 증여일로도 볼 수 없음",
+      "producedDate": "2026-05-29",
+      "registeredAt": "20261019091837",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023834",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제81조의12",
+        "상속세 및 증여세법 제33조",
+        "상속세 및 증여세법 시행령 제25조"
+      ],
+      "keywords": [
+        "세무조사결과통지;20일;신탁재산;증여시기"
+      ],
+      "textLength": 6839,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023834.md"
+    },
+    {
+      "docId": "200000000000023831",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울행정법원-2025-구합-53254",
+      "replyNo": "",
+      "title": "원고가 피상속인으로부터 유상증자 대금 상당을 증여받은 것으로 봄이 타당함",
+      "gist": "명의도용으로 보기 어렵고, 명의신탁에 있어 조세회피의 목적이 없었다고 인정될 정도로 조세회피와 상관없는 뚜렷한 목적이 있었다고 보기 어려움",
+      "producedDate": "2026-05-28",
+      "registeredAt": "20261019091642",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023831",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제4조"
+      ],
+      "keywords": [
+        "명의도용"
+      ],
+      "textLength": 5721,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023831.md"
+    },
+    {
+      "docId": "200000000000023825",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "양도소득세",
+      "docNo": "서울고등법원-2025-누-8453",
+      "replyNo": "",
+      "title": "분담금 환급예정액은 입주권의 양도대가에 해당하여 별도로 양도한 것으로 볼 수 없음",
+      "gist": "(1심 판결과 같음) 원고는 단일한 목적물로서 이 사건 입주권을 양도하였던 것으로서, 원고가 주장하는 분담금환급예정액은 이 사건 입주권의 양도대가를 산정하는 과정에서 고려된 여러 요소들 중 하나일 따름이며 두 가지 별로 각각 양도를 한 것으로 볼 수 없음",
+      "producedDate": "2026-05-14",
+      "registeredAt": "20261019091104",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023825",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제92조"
+      ],
+      "keywords": [
+        "분담금 환급예정액"
+      ],
+      "textLength": 549,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023825.md"
+    },
+    {
+      "docId": "200000000000023883",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "전주지방법원-2024-구합-164",
+      "replyNo": "",
+      "title": "원고가 쟁점채권을 저가양수한 것으로 볼 수 있는지 여부",
+      "gist": "쟁점 채권의 채권양수가 특수관계인 사이의 저가양수(상증세법 제35조 제1항)에 해당하는 것으로 보이는 측면이 있지만, 쟁점 법인들의 자력 등을 고려할 때 평가기준일 현재 쟁점 채권의 시가가 이 사건 처분이 전제한 금액(14,805,735,485원)에 이른다고 볼 수는 없으므로, 피고가 평가기준일 현재 쟁점 채권(118억)의 시가를 정확하게 산정해야 한다고 판시.",
+      "producedDate": "2026-04-16",
+      "registeredAt": "20261019142523",
+      "sourceOrg": "지방법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023883",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(국패)",
+      "statutes": [
+        "상속세 및 증여세법 제35조 제1항",
+        "상속세 및 증여세법 제35조 제4항",
+        "상속세 및 증여세법 제60조",
+        "상속세 및 증여세법 제63조 제1항 제2호",
+        "상속세 및 증여세법 시행령 제26조 제2항",
+        "상속세 및 증여세법 시행령 제26조 제5항",
+        "상속세 및 증여세법 시행령 제58조 제2항"
+      ],
+      "keywords": [
+        "쟁점 채권 저가 양수"
+      ],
+      "textLength": 13553,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023883.md"
+    },
+    {
+      "docId": "200000000000023899",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "서울고등법원-2026-누-4709",
+      "replyNo": "",
+      "title": "항소이유서 미제출로 인한 항소각하결정",
+      "gist": "원고는 제출기간 내에 항소이유서를 제출하지 아니하였고, 직권으로 조사하여야 할사유가 있거나 항소장에 항소이유가 기재되어 있지도 않다. 따라서 원고의 항소는 행정소송법 제8조 제2항, 민사소송법 제402조의3 제1항에 따라 이를 각하하기로 하여,주문과 같이 결정한다.",
+      "producedDate": "2026-09-22",
+      "registeredAt": "20261020091653",
+      "sourceOrg": "고등법원",
+      "decision": "각하",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023899",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제14조",
+        "민사소송법 제402조의3 제1항"
+      ],
+      "keywords": [
+        "항소각하"
+      ],
+      "textLength": 605,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023899.md"
+    },
+    {
+      "docId": "200000000000023900",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "부가가치세",
+      "docNo": "서울고등법원-2025-누-7404",
+      "replyNo": "",
+      "title": "사업자등록전 매입세액에 해당하는지 여부",
+      "gist": "원고가 면세사업자로 변경하는 내용의 사업자등록정정신청서를 제출했더라도 원고의 기존 과세사업자 사업자등록의 효력이 소멸한다고 볼 수 없으므로 이 사건 매입세액은 사업자등록전 매입세액에 해당하지 않음",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261020093320",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023900",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "부가가치세법 제8조"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 16571,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023900.md"
+    },
+    {
+      "docId": "200000000000023775",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "광주지방법원-2025-구합-30438",
+      "replyNo": "",
+      "title": "원고에게 명의신탁재산의 증여의제 규정 등 조세회피 목적이 있었는지 여부",
+      "gist": "원고가 이 사건 회사 발행주식을 가족 및 직원들에게 명의신탁한 것으로 보아 명의신탁재산의 증여의제 규정 등 조세회피 목적이 있다고 판단하여 과세한 이 사건 각 처분 중 2010.7.23.자. 2019.8.21.자 및 2022.5.1.자 각 명의신탁을 원인으로 하는 처분은 적법하고, 2018.2.9.자 및 2021.11.9.자 각 명의신탁을 원인으로 하는 처분은 위법하다.",
+      "producedDate": "2026-08-27",
+      "registeredAt": "20261020173121",
+      "sourceOrg": "지방법원",
+      "decision": "일부국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023775",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(일부국패)",
+      "statutes": [
+        "상속세 및 증여세법 제45조의2"
+      ],
+      "keywords": [
+        "명의신탁재산의 증여의제 규정 등 조세회피 목적 유무"
+      ],
+      "textLength": 13109,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023775.md"
+    },
+    {
+      "docId": "200000000000023907",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합부동산세",
+      "docNo": "서울행정법원-2025-구합-54740",
+      "replyNo": "",
+      "title": "법인에 대한 이 사건 법률조항이 위헌인지 여부",
+      "gist": "이 사건 법률조항은 과잉금지원칙에 반하여 재산권을 침해하고, 평등권 또는 조세평등주의, 조세법률주의에 위반되는 위헌적인 법률에 해당하지 않음",
+      "producedDate": "2026-08-19",
+      "registeredAt": "20261020141539",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023907",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "종합부동산세법 제8조 제1항"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 8935,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023907.md"
+    },
+    {
+      "docId": "200000000000023700",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "광주지방법원-2025-구합-30651",
+      "replyNo": "",
+      "title": "이 사건 캐시백은 법무사 사업과 관련된 수입금액이므로, 이는 망인의 과세기간 당해연도의 총수입금액에 산입되어야 함",
+      "gist": "이 사건 캐시백은 망인이 법무사 사업에 관한 소득 또는 이와 유사한 소득으로서 영리를 목적으로 자기의 계산과 책임 하에 계속적·반복적으로 행하는 활동을 통하여 얻는 소득에 해당함",
+      "producedDate": "2026-08-13",
+      "registeredAt": "20261020162134",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023700",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제19조 제1항",
+        "소득세법 제24조",
+        "소득세법 시행령 제51조 제3항"
+      ],
+      "keywords": [
+        "캐시백;사업소득;법무사"
+      ],
+      "textLength": 3227,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023700.md"
+    },
+    {
+      "docId": "200000000000023876",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세징수",
+      "docNo": "목포지원-2025-가합-10168",
+      "replyNo": "",
+      "title": "피고보조참가신청인은 이 사건 소송 결과에 법률상 이해관계가 있다고 할 수 없고, 원고는 연재보증채무를 피압류채권으로 삼아 압류통지서를 피고에게 송달하여 압류의 효력이 발생한 이상, 원고는 체납자를 대위하여 피압류채권의 추심권을 취득함",
+      "gist": "① 이 사건 판결의 효력은 피고에게 귀속될 뿐이므로, 피고가 소유한 부동산에 양도담보를 설정한 피고보조참가신청인이 이 사건 판결의 기판력이나 집행력을 받는 경우에 해당하지 않고, 이 사건 소송 결과에 따라 피고보조참가신청인의 법률상 지위가 결정되는 것도 아니며, 피고가 패소하여 피고보조참가신청인의 재산권 일부가 침해되는 손해가 발생하더라도 이는 단지 이 사건 소송 결과에 대하여 사실상·경제상 이해관계를 가지는 것에 불과하므로, 피고보조참가신청인은 이 사건 소송 결과에 법률상 이해관계가 있다고 할 수 없음 ② 원고는 이 사건 차용증서에 기한 피고에 대한 연대보증채무를 피압류채권으로 삼아 채권 압류통지서를 피고에게 송달하였고, 그 압류통지가 피고에게 도달함으로써 압류의 효력이 발생하였으므로, 원고는 체납자를 대위하여 피압류채권의 추심권을 취득함",
+      "producedDate": "2026-07-24",
+      "registeredAt": "20261020173259",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023876",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제52조",
+        "국세징수법 제24조",
+        "국세징수법 제28조"
+      ],
+      "keywords": [
+        "추심금;연대보증;보증채무;보조참가신청;법률상이해관계"
+      ],
+      "textLength": 6119,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023876.md"
+    },
+    {
+      "docId": "200000000000023661",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "법인세",
+      "docNo": "광주고등법원(전주)-2025-누-131",
+      "replyNo": "",
+      "title": "부당행위계산부인을 적용하여 인정이자 익금산입한 처분은 적법함.",
+      "gist": "특수관계자로부터 지급받아야 할 채권의 회수를 부당히 지연시킨 데에 정당한 사유를 인정할 수 없으므로 부당행위계산부인 규정을 적용하여 인정이자 익금산입한 처분은 적법함.",
+      "producedDate": "2026-07-08",
+      "registeredAt": "20261020162042",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023661",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "법인세법 제52조",
+        "법인세법 시행령 제88조",
+        "법인세법 제52조 ",
+        "법인세법 시행령 제88조 "
+      ],
+      "keywords": [
+        "부당행위계산 부인"
+      ],
+      "textLength": 2748,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023661.md"
+    },
+    {
+      "docId": "200000000000023919",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세기본",
+      "docNo": "전주지방법원-2025-구합-1195",
+      "replyNo": "",
+      "title": "과점주주로서 회사의 경영에 지배적인 영향력을 행사하였다고 봄이 타당하므로 2차 납세의무 지정 처분은 적법함.",
+      "gist": "2차 납세의무 지정된 원고들은 회사 주식의 실질적인 소유주인 과점주주로서, 권리를 실질적으로 행사하였거나 회사의 경영에 지배적인 영향력을 행사하였다고 봄이 타당하므로 2차 납세의무 지정 처분은 적법함.",
+      "producedDate": "2026-06-25",
+      "registeredAt": "20261020174052",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023919",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제39조"
+      ],
+      "keywords": [
+        "2차 납세의무, 명의대여"
+      ],
+      "textLength": 8101,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023919.md"
+    },
+    {
+      "docId": "200000000000023791",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세징수",
+      "docNo": "전주지방법원-2025-나-2116",
+      "replyNo": "",
+      "title": "이 사건 증여가 재산분할에 해당하는지 여부",
+      "gist": "체납자가 사실상 별다른 재산을 가지고 있지 않은 상태에서 적극재산 대부분을 배우자에게 귀속시키는 증여행위를 한 경우, 이를 정당한 재산분할이라고 평가할 수 없음",
+      "producedDate": "2026-06-17",
+      "registeredAt": "20261020173154",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023791",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제25조"
+      ],
+      "keywords": [
+        "사해행위"
+      ],
+      "textLength": 2431,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023791.md"
+    },
+    {
+      "docId": "200000000000023720",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "광주지방법원-2021-가단-555299",
+      "replyNo": "",
+      "title": "채무초과 상태에서 현금 및 주식을 증여한 행위는 채권자를 해하는 사해행위에 해당함",
+      "gist": "체납자가 채무초과 상태에 빠져 있음에도 현금 및 주식을 증여한 행위는 특별한 사정이 없는 한 채권자를 해하는 사해행위에 해당함",
+      "producedDate": "2026-06-16",
+      "registeredAt": "20261020162528",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023720",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제25조"
+      ],
+      "keywords": [
+        "증여; 사해행위"
+      ],
+      "textLength": 11395,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023720.md"
+    },
+    {
+      "docId": "200000000000023917",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "전주지방법원-2025-가합-1377",
+      "replyNo": "",
+      "title": "매매잔대금 채권의 존재여부",
+      "gist": "이 사건 매매계약은 존재하는 것으로 보이나 부동산 매매계약서, 지주공동사업계약서의 기재에 따르면 피고가 소외 양도인(매매대금 채권자)에 대하여 이 사건 부동산의 매매대금으로 지급하여야 할 금액은 15억 원임이 인정되므로 미지급 매매대금 잔금 3억 7,500만 원 및 소외 양도인(매매대금 채권자)이 피고에게 이 사건 부동산의 소유권이전등기를 마쳐줌으로써 이행기가 도래한 2022. 5. 19. 이후부터의 지연손해금을 지급할 의무가 있다.",
+      "producedDate": "2026-05-27",
+      "registeredAt": "20261020161642",
+      "sourceOrg": "지방법원",
+      "decision": "일부국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023917",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(일부국패)",
+      "statutes": [
+        "국세징수법 제1조"
+      ],
+      "keywords": [
+        "매매잔대금 채권의 존재 여부"
+      ],
+      "textLength": 6139,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023917.md"
+    },
+    {
+      "docId": "200000000000023724",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세기본",
+      "docNo": "광주지방법원-2023-구합-11283",
+      "replyNo": "",
+      "title": "후발적 경정청구 사유에 해당하는지 여부",
+      "gist": "후발적 경정청구 제도는 과세표준 및 세액의 기초가 된 사실에 중대한 변경이 있어 기존 과세처분이 정당하게 유지될 수 없게 된 경우를 위한 것. 국세기본법 시행령 제25조의2 제3호의 '압수 등의 사유가 소멸한 경우'는 단순히 압수가 해제되는 것만으로는 부족하고, 그 결과 정당한 과세표준 및 세액을 계산할 수 있는 상태가 되어야 함.  현재까지 압수된 서류를 환부받지 못했으며, 형사판결에서 인정된 사실만으로는 종합소득세의 과세표준이나 세액을 산정할 수 없다고 판단. 설령 원고가 주장하는 사정이 압수에 준하는 '부득이한 사유'에 해당하더라도, 형사판결만으로 그 사유가 해소되었다는 점이 증명되지 않았다고 판단.",
+      "producedDate": "2026-05-07",
+      "registeredAt": "20261020170823",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023724",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제45조의2 제1항"
+      ],
+      "keywords": [
+        "후발적 경정청구 사유"
+      ],
+      "textLength": 8919,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023724.md"
+    },
+    {
+      "docId": "200000000000023607",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합부동산세",
+      "docNo": "광주지방법원-2025-구합-30605",
+      "replyNo": "",
+      "title": "합산배제임대주택 해당 여부 및 판단 기준",
+      "gist": "이 사건 오피스텔은 기준일이 지난 후에 사업자등록을 마친 임대주택에 해당하므로 합산배제 임대주택에 해당하지 아니함",
+      "producedDate": "2026-04-23",
+      "registeredAt": "20261020161948",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023607",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "종합부동산세법 시행령 제3조 제1항 제8호 나목"
+      ],
+      "keywords": [
+        "합산배제임대주택"
+      ],
+      "textLength": 6670,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023607.md"
+    },
+    {
+      "docId": "200000000000023909",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세징수",
+      "docNo": "안양지원-2026-가합-100066",
+      "replyNo": "",
+      "title": "상속재산분할협의가 사해행위에 해당하는지 여부",
+      "gist": "상속재산분할협의가 사해행위에 해당하므로, 해당 상속재산분할협의를 취소하고, 원고의 가액배상 청구를 인정함",
+      "producedDate": "2026-10-02",
+      "registeredAt": "20261021165936",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023909",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제25조"
+      ],
+      "keywords": [
+        "사해행위취소"
+      ],
+      "textLength": 310,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023909.md"
+    },
+    {
+      "docId": "200000000000023920",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "서울행정법원-2025-구합-56164",
+      "replyNo": "",
+      "title": "사기나 그 밖의 부정한 행위에 의한 10년의 부과제척기간 적용 대상인 지 여부",
+      "gist": "주식 명의신탁 행위와 이에 뒤따르는 부수행위를 ‘사기나 그 밖의 부정한 행위’에 해당한다고 볼 수 없음",
+      "producedDate": "2026-10-01",
+      "registeredAt": "20261021091813",
+      "sourceOrg": "행정법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023920",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(국패)",
+      "statutes": [
+        "국세기본법 제26조의2"
+      ],
+      "keywords": [
+        "사기기타 부정한 행위"
+      ],
+      "textLength": 5165,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023920.md"
+    },
+    {
+      "docId": "200000000000023942",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "안양지원-2026-가단-101818",
+      "replyNo": "",
+      "title": "주권발행청구의 소",
+      "gist": "주권발행청구의 소는 적법함",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261021165950",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023942",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제51조"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 1975,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023942.md"
+    },
+    {
+      "docId": "200000000000023946",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "수원지방법원-2025-가단-512716",
+      "replyNo": "",
+      "title": "이 사건 증여계약은 사해행위에 해당함",
+      "gist": "이 사건 증여를 상당한 재산분할이라고 할 수 없음",
+      "producedDate": "2026-09-17",
+      "registeredAt": "20261021170002",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023946",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제30조"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 5528,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023946.md"
+    },
+    {
+      "docId": "200000000000023944",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "법인세",
+      "docNo": "서울행정법원-2025-구합-53102",
+      "replyNo": "",
+      "title": "외국법인 간 내국법인 주식의 이전을 국내원천 유가증권양도소득으로 보아  과세한 이 사건 처분은 적법함",
+      "gist": "외국의 민법에 규정된 절차에 따라 외국법인 간에 이루어진 내국법인의 주식 이전은 국내 법인세법 상 합병에 준하여 취급함이 상당한 바, 국내원천 유가증권양도소득으로 보아 과세한 이 사건 처분은 적법함",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261021110524",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023944",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "법인세법 제93조 "
+      ],
+      "keywords": [
+        "외국법인;주식의 이전;양도"
+      ],
+      "textLength": 14523,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023944.md"
+    },
+    {
+      "docId": "200000000000023922",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울행정법원-2024-구합-4343",
+      "replyNo": "",
+      "title": "이 사건 주식거래의 실질이 양도담보인지 증여인지 여부",
+      "gist": "이 사건 주식거래는 사실상 무상이전에 해당하여 양도도 양도담보도 아닌 증여에 해당함",
+      "producedDate": "2026-09-10",
+      "registeredAt": "20261021092002",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023922",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제2조 제6호",
+        "소득세법 시행령 제151조 제1항"
+      ],
+      "keywords": [
+        "소송"
+      ],
+      "textLength": 5914,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023922.md"
+    },
+    {
+      "docId": "200000000000023962",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "수원지방법원-2025-구합-61921",
+      "replyNo": "",
+      "title": "법무사의 지방세 대납 과정에서 수취한 캐시백의 과세 여부",
+      "gist": "법무사가 등기신청의 대리사무에 부수되는 지방세 납부 대행 과정에서 발생한 캐시백은 법무사의 사업소득에 해당하며, 이 캐시백은 직원의 계산·책임으로 취득한 것이 아니라, 직원이 법무사에게 제공한 근로에 기한 대가로 인정되는 금원이므로 근로소득에 해당함",
+      "producedDate": "2026-09-10",
+      "registeredAt": "20261021170013",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023962",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제38조"
+      ],
+      "keywords": [
+        "법무사, 캐시백, 근로소득"
+      ],
+      "textLength": 4551,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023962.md"
+    },
+    {
+      "docId": "200000000000023756",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "서울행정법원2025구합55369",
+      "replyNo": "",
+      "title": "세무조사 절차 위법 및 필요경비 귀속시기 적정여부",
+      "gist": "①명의위장 사업장을 통한 소득분산 혐의, 세금계산서 과다 발행 혐의 등을 충분히 의심할 수 있는 상황이었다고 보이므로, 신고 내용에 탈루나 오류 사실이 확인될 가능성이 객관적인 자료에 의하여 뒷받침되었다고 봄이 타당함 ②‘무자료거래, 위장ㆍ가공거래 등 거래 내용이 사실과 다른 혐의가 있어 실제 거래 내용에 대한 조사가 필요한 경우’에 해당한다고 보아 개시된 것이므로, 세무조사 기간의 제한은 물론 세무조사 연장기간의 제한을 받지 않음 ③오EE에 대한 조사가 법령에서 규정한 '세무조사'에 해당한다고 보기 어렵고, ‘세무조사’에 해당한다고 하더라도, 이는 별도의 세무조사가 이루어진 것에 불과하므로 세무조사의 범위가 확대된 것으로 볼 수 없음 ④납세자의 동의 아래 이 사건 자료를 일시 보관한 것이 세무조사권 남용에 해당한다고 보기 어려움 ⑤광고비(필요경비) 귀속연도는 용역의 제공이 완료된 2021년이라고 봄이 타당함",
+      "producedDate": "2026-09-09",
+      "registeredAt": "20261021140249",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023756",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제39조 제1항",
+        "국세기본법 제81조의6 제3항 제4호",
+        "국세기본법 제81조의6 제3항",
+        "국세기본법 제81조\r\n",
+        "국세기본법 제81조의6 제3항\r",
+        "국세기본법 제81조의8 제2항",
+        "국세기본법 제81조의8 제3항 ",
+        "국세기본법 제81조의9 "
+      ],
+      "keywords": [
+        "세무조사 절차 위법 및 필요경비 귀속시기 적정여부"
+      ],
+      "textLength": 9658,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023756.md"
+    },
+    {
+      "docId": "200000000000023838",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "07",
+      "docClass": "심사청구",
+      "taxType": "부가가치세",
+      "docNo": "심사-부가-2026-0034",
+      "replyNo": "",
+      "title": "세금계산서불성실가산세는 「국세기본법」제26조의2 제1항 제1호의2 다목에 따라 10년의 부과제척기간이 적용됨",
+      "gist": "청구법인이 쟁점매입처로부터 기계장치를 인도받아 쟁점매출처에 설치를 완료하는 등 실제공사를 한 것으로는 보기 어려워 쟁점세금계산서가 가공세금계산서가 아니라는 청구법인의 주장은 달리 인정하기 어려우며, 세금계산서상의 부가가치세 납부의무를 면탈하려는 적극적 의도가 없었다 하더라도 사기나 그 밖의 부정한 행위로 허위의 세금계산서를 수수한 경우 이와 관련된 세금계산서 불성실가산세는 구「국세기본법」제26조의2 제1항 제1호의2 다목에 따라 10년의 부과제척기간을 적용함이 타당하기에(조심 2023서10340, 2024.11.21.판결 참조) 세금계산서 불성실가산세 부과처분이 부과제척기간을 도과하였다는 청구주장은 이유 없음",
+      "producedDate": "2026-08-26",
+      "registeredAt": "20261021153703",
+      "sourceOrg": "국세청",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023838",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "부가가치세법 제39조",
+        "국세기본법 제26조의2"
+      ],
+      "keywords": [
+        "가공매입세금계산서 수취 가산세",
+        "부과제척기간"
+      ],
+      "textLength": 13117,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023838.md"
+    },
+    {
+      "docId": "200000000000023964",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "수원고등법원-2025-누-1115",
+      "replyNo": "",
+      "title": "주택신축판매업자의 기준경비율 적용 여부",
+      "gist": "주택신축판매업자의 사업개시일은 ‘주택의 분양을 개시한 시점’으로 봄이 타당하므로 해당 과세연도 신규사업자로 보아야 하며 수입금액 기준에 따라 단순경비율 적용 배제대상임",
+      "producedDate": "2026-08-21",
+      "registeredAt": "20261021170025",
+      "sourceOrg": "고등법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023964",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제143조 제1항",
+        "소득세법 제143조 제2항"
+      ],
+      "keywords": [
+        "기준경비율"
+      ],
+      "textLength": 6247,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023964.md"
+    },
+    {
+      "docId": "200000000000023986",
+      "collection": "question,question_gr",
+      "group": "해석례",
+      "docClassCode": "03",
+      "docClass": "과세기준자문",
+      "taxType": "부가가치세",
+      "docNo": "기준-2026-법규부가-0117",
+      "replyNo": "법규과-2813",
+      "title": "외국항공사 국내지점이 승객에게 부과되는 국제여객공항이용료를 징수대행하고 공항공사로부터 대행수수료를 받는 경우 외국항행용역에 부수되어 영세율 대상인지",
+      "gist": "외국항행용역을 공급하는 외국항공사의 국내지점이 공항공사가 승객에게 부과하는 국제여객공항이용료를 항공권 발권시 징수대행하고 공항공사로부터 대행수수료를 지급받는 경우, 해당 징수대행용역은 공급받는 자가 외국항행용역을 제공받는 승객이 아니므로 외국항행용역의 부수용역에 해당하지 아니하고, 외국항행용역의 범위에도 포함되지 아니하므로 부가가치세가 과세(10% 세율)되는 것임",
+      "producedDate": "2026-10-22",
+      "registeredAt": "20261022172106",
+      "sourceOrg": "국세청",
+      "decision": "",
+      "link": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000023986",
+      "importanceHint": "high",
+      "hintReason": "과세기준자문",
+      "statutes": [
+        "부가가치세법 제14조",
+        "부가가치세법 제23조",
+        "부가가치세법 시행령 제32조"
+      ],
+      "keywords": [
+        "공항이용료 징수대행용역"
+      ],
+      "textLength": 2679,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023986.md"
+    },
+    {
+      "docId": "200000000000023810",
+      "collection": "question,question_gr",
+      "group": "해석례",
+      "docClassCode": "01",
+      "docClass": "사전답변",
+      "taxType": "양도소득세",
+      "docNo": "사전-2026-법규재산-0177",
+      "replyNo": "",
+      "title": "상속주택 미분할 시 소득령§156의2⑤에 따른 대체주택 특례 적용 여부",
+      "gist": "대체주택 특례와 공동상속주택 특례는 중첩 적용할 수 있으나, 3채 이상의 주택을 공동상속 받은 경우 선순위 1주택에 대해서만 공동상속주택 특례가 적용되므로, 나머지 상속주택으로 인해 대체주택 특례와 공동상속주택 특례를 중첩 적용할 수 없으므로 1세대1주택 비과세를 적용할 수 없음",
+      "producedDate": "2026-10-01",
+      "registeredAt": "20261022092806",
+      "sourceOrg": "국세청",
+      "decision": "",
+      "link": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000023810",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 시행령 제154조의2\r\n",
+        "소득세법 시행령 제155조\r\n",
+        "소득세법 시행령 제156조의2"
+      ],
+      "keywords": [
+        "대체주택 특례;상속주택 특례;공동상속주택 특례;거주주택 특례"
+      ],
+      "textLength": 10070,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023810.md"
+    },
+    {
+      "docId": "200000000000023809",
+      "collection": "question,question_gr",
+      "group": "해석례",
+      "docClassCode": "01",
+      "docClass": "사전답변",
+      "taxType": "양도소득세",
+      "docNo": "사전-2026-법규재산-0922",
+      "replyNo": "법규과-2594",
+      "title": "1주택과 1조합원입주권을 소유한 1세대가 양도하는 1주택의 비과세 여부",
+      "gist": "국내에 1주택(A주택)을 소유한 1세대가 그 주택이 재해로 전파된 후 다른 주택(B주택)을 취득하고 B주택 취득 이후 A주택을 철거 및 멸실한 경우로서 B주택 취득일로부터 1년이 지난 후에 멸실된 A주택에 대한 ｢빈집 및 소규모주택 정비에 관한 특별법｣제29조에 따른 사업시행계획인가로 인해 조합원입주권을 취득하고 그로부터 3년이 경과하여 B주택을 양도하는 경우 ｢소득세법 시행령｣제156조의2제4항을 적용하는 것",
+      "producedDate": "2026-10-01",
+      "registeredAt": "20261022092519",
+      "sourceOrg": "국세청",
+      "decision": "",
+      "link": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000023809",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제89조\r\n",
+        "소득세법 시행령 제156조의2"
+      ],
+      "keywords": [
+        "1세대1주택"
+      ],
+      "textLength": 4775,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023809.md"
+    },
+    {
+      "docId": "200000000000023918",
+      "collection": "question,question_gr",
+      "group": "해석례",
+      "docClassCode": "02",
+      "docClass": "질의회신",
+      "taxType": "양도소득세",
+      "docNo": "서면-2026-부동산-4427",
+      "replyNo": "",
+      "title": "일반주택과 상속주택을 보유한 자가 일반주택 보유자와 혼인한 경우 비과세 특례",
+      "gist": "1채의 일반주택과 상속주택(「소득세법 시행령」제155조 제2항의 규정에 따른 상속주택)을 보유하는 자가 1채의 일반주택을 보유하는 자와 혼인함으로써 1세대가 3주택을 보유하게 되는 경우 그 혼인한 날부터 10년 이내에 먼저 양도하는 일반주택은 비과세가 적용되는 것임",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261022094345",
+      "sourceOrg": "국세청",
+      "decision": "",
+      "link": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000023918",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 시행령 제155조 제2항",
+        "소득세법 시행령 제155조 제5항"
+      ],
+      "keywords": [
+        "혼인합가특례, 상속주택 특례"
+      ],
+      "textLength": 2062,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023918.md"
+    },
+    {
+      "docId": "200000000000023916",
+      "collection": "question,question_gr",
+      "group": "해석례",
+      "docClassCode": "02",
+      "docClass": "질의회신",
+      "taxType": "양도소득세",
+      "docNo": "서면-2024-부동산-2937",
+      "replyNo": "",
+      "title": "농어촌주택 및 귀농주택 과세특례 적용 여부",
+      "gist": "조특법제99조의4제1항에 따른 농어촌주택 취득기간 전에 취득한 주택은 농어촌주택 특례주택에 해당하지 아니하는 것임",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261022093422",
+      "sourceOrg": "국세청",
+      "decision": "",
+      "link": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000023916",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제99조의4",
+        "소득세법 시행령 제155조 제7항"
+      ],
+      "keywords": [
+        "농어촌주택 특례"
+      ],
+      "textLength": 2713,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023916.md"
+    },
+    {
+      "docId": "200000000000023811",
+      "collection": "question,question_gr",
+      "group": "해석례",
+      "docClassCode": "01",
+      "docClass": "사전답변",
+      "taxType": "양도소득세",
+      "docNo": "사전-2026-법규재산-0777",
+      "replyNo": "법규과-2307",
+      "title": "일시적 2주택자가 종전 주택을 양도하는 날 신규 주택을 취득한 경우 1세대1주택 비과세 여부",
+      "gist": "일시적 2주택 소유자가 신규주택 취득 후 3년 내 종전의 주택을 양도하는 경우로서 양도일과 같은 날에 새로운 주택을 취득하는 경우에는 1주택을 먼저 양도한 후 1주택을 취득한 것으로 보아「소득세법 시행령」제154조제1항을 적용하는 것임",
+      "producedDate": "2026-09-04",
+      "registeredAt": "20261022092848",
+      "sourceOrg": "국세청",
+      "decision": "",
+      "link": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000023811",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제89조\r\n",
+        "소득세법 시행령 제154조\r\n",
+        "소득세법 시행령 제156조의2"
+      ],
+      "keywords": [
+        "1세대1주택"
+      ],
+      "textLength": 3210,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023811.md"
+    },
+    {
+      "docId": "200000000000023930",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합소득세",
+      "docNo": "조심-2026-서-2212",
+      "replyNo": "",
+      "title": "쟁점금액이 가공매출이므로 수입금액에서 제외해야 한다는 청구주장의 당부",
+      "gist": "청구인이 제시한 자료(계좌입금내역 등)만으로는 쟁점금액이 실제 재화의 공급없이 과다계상 된 매출로 보기 어려움",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261022081355",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023930",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제163조 제1항"
+      ],
+      "keywords": [
+        "필요경비"
+      ],
+      "textLength": 4689,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023930.md"
+    },
+    {
+      "docId": "200000000000023983",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "부가가치세",
+      "docNo": "서울행정법원-2025-구합-55849",
+      "replyNo": "",
+      "title": "이 사건 거래가 명의도용에 따른 당연무효인지",
+      "gist": "원고 명의로 발급 또는 수취된 이 사건 가공세금계산서들이 원고와 실질적으로 무관한 것이라고 보기 어렵고, 설령 그렇다고 하더라도 사실관계를 조사하지 않고서는 그러한 점을 알 수 없어 외관상 그 하자가 명백하다고 할 수도 없다.",
+      "producedDate": "2026-09-18",
+      "registeredAt": "20261022171702",
+      "sourceOrg": "행정법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023983",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제14조"
+      ],
+      "keywords": [
+        "명의도용"
+      ],
+      "textLength": 4215,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023983.md"
+    },
+    {
+      "docId": "200000000000023931",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "양도소득세",
+      "docNo": "조심-2026-서-2119",
+      "replyNo": "",
+      "title": "처분청이 쟁점부동산에 대한 소급감정가액을 “시가”로 보아, 부당행위계산부인 및 이익의 증여의제 규정을 적용하여 양도소득세 및 증여세를 각 부과한 처분의 당부",
+      "gist": "감정인의 감정결과는 현저한 잘못이 없는 한 존중되어야 하는 것으로(대법원 2014.8.20. 선고 2012다69159 판결), 조사청 감정평가결과에 현저한 잘못이 있다고 단정하기 어려움",
+      "producedDate": "2026-09-17",
+      "registeredAt": "20261022081412",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023931",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제60조"
+      ],
+      "keywords": [
+        "감정평가"
+      ],
+      "textLength": 12249,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023931.md"
+    },
+    {
+      "docId": "200000000000023870",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "부가가치세",
+      "docNo": "조심-2026-광-2578",
+      "replyNo": "",
+      "title": "저수지 준설에 관한 쟁점사업(저수지 준설사업)이 정부업무대행단체의 면세사업에 해당하는지 여부",
+      "gist": "쟁점규정은 청구법인의 ‘저수지와 그 주변 준설사업’을 면세사업에서 제외한다고 규정되어 있고, 입법자는‘정부로부터 위탁받은 사업이 아니거나 민간과 경쟁하는 분야’에 해당함을 전제로 이를 면세사업에서 제외하기 위한 명문의 규정을 두기 위함이었던 것으로 보이는 점 등에 비추어 청구주장을 받아들이기 어려움",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261022080715",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023870",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제106조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 26929,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023870.md"
+    },
+    {
+      "docId": "200000000000023872",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "부가가치세",
+      "docNo": "조심-2026-광-2542",
+      "replyNo": "",
+      "title": "저수지 준설에 관한 쟁점사업(저수지 준설사업)이 정부업무대행단체의 면세사업에 해당하는지 여부",
+      "gist": "쟁점규정은 청구법인의 ‘저수지와 그 주변 준설사업’을 면세사업에서 제외한다고 규정되어 있고, 입법자는‘정부로부터 위탁받은 사업이 아니거나 민간과 경쟁하는 분야’에 해당함을 전제로 이를 면세사업에서 제외하기 위한 명문의 규정을 두기 위함이었던 것으로 보이는 점 등에 비추어 청구주장을 받아들이기 어려움",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261022080758",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023872",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제106조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 26929,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023872.md"
+    },
+    {
+      "docId": "200000000000023867",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합부동산세",
+      "docNo": "조심-2026-소-1040",
+      "replyNo": "",
+      "title": "쟁점토지에 대해 「주택법」에 따른 사업계획승인을 받지 못한 것은 쟁점종중과의 소유권분쟁 등 부득이한 사유가 있었던 것이므로, 조특법 제104조의19 제3항에 따라 종합부동산세 등을 추징한 이 건 처분은 부당하다는 청구주장의 당부",
+      "gist": "청구인들은 쟁점토지를 취득한 2020.3.26.부터 5년 이내에 「주택법」에 따른 사업계획승인을 받지 못한 것으로 확인됨.",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261022080557",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023867",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제104조의19"
+      ],
+      "keywords": [
+        "「주택법」에 따른 사업계획승인"
+      ],
+      "textLength": 9010,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023867.md"
+    },
+    {
+      "docId": "200000000000023871",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "부가가치세",
+      "docNo": "조심-2026-소-2549",
+      "replyNo": "",
+      "title": "저수지 준설에 관한 쟁점사업(저수지 준설사업)이 정부업무대행단체의 면세사업에 해당하는지 여부",
+      "gist": "쟁점규정은 청구법인의 ‘저수지와 그 주변 준설사업’을 면세사업에서 제외한다고 규정되어 있고, 입법자는‘정부로부터 위탁받은 사업이 아니거나 민간과 경쟁하는 분야’에 해당함을 전제로 이를 면세사업에서 제외하기 위한 명문의 규정을 두기 위함이었던 것으로 보이는 점 등에 비추어 청구주장을 받아들이기 어려움",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261022080739",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023871",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제106조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 26929,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023871.md"
+    },
+    {
+      "docId": "200000000000023976",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "국세징수",
+      "docNo": "서울중앙지방법원-2025-가소-32256",
+      "replyNo": "",
+      "title": "위 공탁금이 국고로 귀속된 것은 공탁법 등에 따른 것으로 법률상 원인이 있는 이상 피고가 이를 부당이득한 것이라 볼 수 없음",
+      "gist": "위 공탁금이 국고로 귀속된 것은 공탁법 등에 따른 것으로 법률상 원인이 있는 이상 피고가 이를 부당이득한 것이라 볼 수 없음",
+      "producedDate": "2026-09-16",
+      "registeredAt": "20261022104518",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023976",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "공탁법 제9조 "
+      ],
+      "keywords": [
+        "부당이득금"
+      ],
+      "textLength": 889,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023976.md"
+    },
+    {
+      "docId": "200000000000023961",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "부가가치세",
+      "docNo": "조심-2026-소-2151",
+      "replyNo": "",
+      "title": "쟁점할인액이 이동통신 단말기의 공급가액에서 제외되는 매출에누리에 해당한다는 청구주장의 당부",
+      "gist": "쟁점할인액이 단말기 공급가액에서 차감되었는지 여부가 객관적으로 확인되지 않고, 청구인과 고객들이 단말기 매매계약 체결과정에서 쟁점할인액에 관하여 구체적으로 합의하였는지 여부나 그 내용 및 금액도 불분명함",
+      "producedDate": "2026-09-15",
+      "registeredAt": "20261022082553",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023961",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "부가가치세법 제29조"
+      ],
+      "keywords": [
+        "심판;소액"
+      ],
+      "textLength": 5753,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023961.md"
+    },
+    {
+      "docId": "200000000000023954",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합부동산세",
+      "docNo": "조심-2026-서-2459",
+      "replyNo": "",
+      "title": "쟁점주택이 사실상 폐가로서 종합부동산세 과세 대상 주택에 해당하지 아니하는지 여부",
+      "gist": "쟁점주택은 오랜 기간 사용되지 아니하여 균열 및 노후화되기는 했으나 지붕, 창문, 콘크리트 벽제 등이 허물어지지 않은 채로 존재하고 있어, 훼손 부분을 수리하고 수도와 전기를 다시 공급할 경우 장기간 독립된 주거생활을 할 수 있어 보이는 등 주거용으로서의 잠재적 기능을 여전히 보유한 상태였다고 볼 수 있음.",
+      "producedDate": "2026-09-15",
+      "registeredAt": "20261022082341",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023954",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "종합부동산세법 제2조"
+      ],
+      "keywords": [
+        "임대주택"
+      ],
+      "textLength": 10684,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023954.md"
+    },
+    {
+      "docId": "200000000000023963",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "부가가치세",
+      "docNo": "조심-2026-소-2152",
+      "replyNo": "",
+      "title": "쟁점할인액이 이동통신 단말기의 공급가액에서 제외되는 매출에누리에 해당한다는 청구주장의 당부",
+      "gist": "쟁점할인액이 단말기 공급가액에서 차감되었는지 여부가 객관적으로 확인되지 않고, 청구인과 고객들이 단말기 매매계약 체결과정에서 쟁점할인액에 관하여 구체적으로 합의하였는지 여부나 그 내용 및 금액도 불분명함",
+      "producedDate": "2026-09-15",
+      "registeredAt": "20261022082610",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023963",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "부가가치세법 제29조"
+      ],
+      "keywords": [
+        "심판;소액"
+      ],
+      "textLength": 5753,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023963.md"
+    },
+    {
+      "docId": "200000000000023978",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "법인세",
+      "docNo": "서울행정법원-2025-구합-53024",
+      "replyNo": "",
+      "title": "미환류소득 법인세 기업소득 계산에서 이월결손금이 차감된 경우 그 결손금이 법인세 과세표준에서 실제 공제되지 않았다고 하여 기업소득 계산 시 다음 사업연도에 재차 차감할 수 없음",
+      "gist": "이월결손금이 어느 사업연도의 기업소득 계산에서 차감된 이상, 그 결손금이 법인세 과세표준에서 실제 공제되지 않았다는 이유로 기업소득 계산 시 다음 사업연도에 재차 차감할 수는 없음",
+      "producedDate": "2026-09-09",
+      "registeredAt": "20261022104636",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023978",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제100조의32",
+        "조세특례제한법 시행령 제100조의32 제4항",
+        "법인세법 제13조",
+        "법인세법 제44조의3",
+        "법인세법 제45조"
+      ],
+      "keywords": [
+        "미환류소득;이월결손금"
+      ],
+      "textLength": 9072,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023978.md"
+    },
+    {
+      "docId": "200000000000023894",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "상속증여세",
+      "docNo": "조심-2026-서-1711",
+      "replyNo": "",
+      "title": "쟁점감정가액을 쟁점부동산의 시가로 보아 상속세를 부과한 처분의 당부",
+      "gist": "가격산정기준일과 감정가액평가서 작성일 중 어느 하나만 평가기간 이내에 속해 있는 경우에는 상증세법 시행령 제49조 제1항 단서가 적용됨(대법원 26.5.8. 선고 2024두 54348 판결)처분청과 청구인은 상속세 법정결정기한 이내에 가격산정기준일을 상속개 시일로 하여 적법하게 감정평가를 실시하였고, 평가심의윈원회 심의를 거쳐 쟁점감정 가액을 시가로 결정함",
+      "producedDate": "2026-09-09",
+      "registeredAt": "20261022081027",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023894",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제60조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 10194,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023894.md"
+    },
+    {
+      "docId": "200000000000023975",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "상속증여세",
+      "docNo": "서울고등법원-2025-누-9353",
+      "replyNo": "",
+      "title": "부친 사업용계좌에서 인출한 금원이 원고 명의 계좌로 이체되었으므로 부친이 원고에게 증여한 것으로 추정됨",
+      "gist": "이 사건 금원이 이 사건 사업용계좌에서 원고 명의 계좌로 이체되는 등의 방법으로 원고 명의 계좌에 예치되거나 이전된 사실이 인정되므로 이 사건 금원은 부친이 원고에게 증여한 것으로 추정됨",
+      "producedDate": "2026-08-21",
+      "registeredAt": "20261022104348",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023975",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 제44조"
+      ],
+      "keywords": [
+        "증여추정"
+      ],
+      "textLength": 2197,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023975.md"
+    },
+    {
+      "docId": "200000000000023932",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "상속증여세",
+      "docNo": "조심-2026-서-0324",
+      "replyNo": "",
+      "title": "쟁점유사매매사례가액을 쟁점아파트의 상속 개시 당시 시가로 보아 과세한 처분의 당부",
+      "gist": "비교대상아파트는 쟁점아파트와 위치가 동일하지 않고, 고급 인테리어 공사, 한강 조망권 등이 반영되어 동일 단지 매매사례 중 이례적으로 높은 가액으로 거래됨에 따라 통상적인 매매사례가액으로 볼 수 없음",
+      "producedDate": "2026-08-20",
+      "registeredAt": "20261022081429",
+      "sourceOrg": "조세심판원",
+      "decision": "인용",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023932",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(인용)",
+      "statutes": [
+        "상속세 및 증여세법 제60조"
+      ],
+      "keywords": [
+        "유사매매사례가액"
+      ],
+      "textLength": 13948,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023932.md"
+    },
+    {
+      "docId": "200000000000023802",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "기타",
+      "docNo": "조심-2026-서-2061",
+      "replyNo": "",
+      "title": "이 건 심판청구가 적법한지 여부",
+      "gist": "이미 확정된 본세에 구 「국세징수법」상 가산금이 가산되어 산정된 체납액을 알려주는 납부서의 발송은 납세 편의를 위한 안내자료에 불과하여 새로운 부과처분에 해당하지 않으므로 이를 다투는 심판청구는 불복대상이 되는 처분이 존재하지 않아 부적법함",
+      "producedDate": "2026-08-20",
+      "registeredAt": "20261022075941",
+      "sourceOrg": "조세심판원",
+      "decision": "각하",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023802",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제55조 제1항"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 1884,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023802.md"
+    },
+    {
+      "docId": "200000000000023801",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합부동산세",
+      "docNo": "조심-2026-서-0123",
+      "replyNo": "",
+      "title": "쟁점신탁계약 및 위탁자지위 변경 등기에 따라 쟁점주택에 대한 종합부동산세 납세의무자의 지위가 변경되었다는 청구주장의 당부",
+      "gist": "납세의무자인 위탁자의 명의와 실질에 있어 괴리가 존재하고 그 괴리가 조세회피 목적에서 비롯된 경우에는 실질과세원칙에 따라 그 위탁자 명의에도 불구하고 실위탁자를 납세의무자로 보아야 할 것임.",
+      "producedDate": "2026-08-19",
+      "registeredAt": "20261022075922",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023801",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "종합부동산세법 제7조"
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 9046,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023801.md"
+    },
+    {
+      "docId": "200000000000023807",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "법인세",
+      "docNo": "조심-2025-서-2827",
+      "replyNo": "",
+      "title": "① 쟁점보상금을 쟁점도급공사와 관련하여 지급한 비용으로 보아 손금에 산입할 수 있는지 여부 ② 쟁점지원비용을 광고선전비로 보아 손금산입할 수 있는지 여부",
+      "gist": "① 청구법인은 쟁점보상금 지급 규모에 대해서도 다수의 업체로부터 견적을 받아 최저금액으로 산정한 점 등을 고려하면 쟁점보상금은 접대비에서 제외하고 손금산입 함이 타당함  ② 청구법인이 쟁점지원비용을 지출함으로써 일정부분 기업이미지 제고 효과로 00계열사로부터 매출증대가 발생한다 할지라도 불특정다수인을 상대로 하는 광고선전비에 해당한다고 보기 어려움",
+      "producedDate": "2026-08-11",
+      "registeredAt": "20261022080105",
+      "sourceOrg": "조세심판원",
+      "decision": "일부인용",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023807",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(일부인용)",
+      "statutes": [
+        "법인세법 제19조 "
+      ],
+      "keywords": [
+        "심판"
+      ],
+      "textLength": 22416,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023807.md"
+    },
+    {
+      "docId": "200000000000023933",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "법인세",
+      "docNo": "조심-2026-서-0992",
+      "replyNo": "",
+      "title": "청구법인의 외국납부세액 공제한도가 증액되어야 한다는 청구주장의 당부",
+      "gist": "외국납부세액 공제한도 계산시 국외원천소득에서 국외원천소득대응비용을 차감하여야 하나, 청구법인은 이를 명확하게 확인할 수 있는 자료를 제출하지 아니하여, 국외원천소득 대응비용 재조사 필요함",
+      "producedDate": "2026-08-10",
+      "registeredAt": "20261022081510",
+      "sourceOrg": "조세심판원",
+      "decision": "기타",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023933",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제45조의2"
+      ],
+      "keywords": [
+        "외국납부세액공제"
+      ],
+      "textLength": 10784,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023933.md"
+    },
+    {
+      "docId": "200000000000023953",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "양도소득세",
+      "docNo": "조심-2026-서-2510",
+      "replyNo": "",
+      "title": "쟁점공사비가 「소득세법 시행령」 제163조 제3항의 양도소득의 필요경비에 해당하는지 여부",
+      "gist": "청구인은 쟁점공사 관련 세금계산서 등 적격증빙을 수취하지 않았고, 거래상대방인 청구외인은 쟁점공사비 관련 매출신고를 하지 아니한 점, 청구인이 제출한 금융거래내역이 쟁점토지의 공사와 관련하여 지출되었는지 여부가 객관적으로 입증된다고 보기 어렵고, 청구인 역시 어느 지출액이 쟁점공사비 관련 금액이라고 특정하지 못한다고 인정하고 있는 점 등에 비추어 청구주장을 받아들이기는 어려움",
+      "producedDate": "2026-08-04",
+      "registeredAt": "20261022082322",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023953",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제97조"
+      ],
+      "keywords": [
+        "필요경비"
+      ],
+      "textLength": 9965,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023953.md"
+    },
+    {
+      "docId": "200000000000023956",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "법인세",
+      "docNo": "조심-2026-서-0775",
+      "replyNo": "",
+      "title": "위법한 세무조사에 따른 부적법한 처분이라는 청구주장의 당부",
+      "gist": "쟁점압수수색 관련 재항고 소송이 대법원 계류 중(대법원 2025모560)으로 위법성이 확정되지 아니하였고  조사청은 경찰수사와 별개로 세목별조사를 실시하여 이 건 처분의 근거를 확보한바, 설령 경찰이 수집한 근거가 위법하다 하더라도 해당 처분이 위법한 것은 아니므로 청구주장은 받아들이기 어려움",
+      "producedDate": "2026-08-04",
+      "registeredAt": "20261022082515",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023956",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제81조의6"
+      ],
+      "keywords": [
+        "세무조사"
+      ],
+      "textLength": 9362,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023956.md"
+    },
+    {
+      "docId": "200000000000023952",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합소득세",
+      "docNo": "조심-2026-소-2217",
+      "replyNo": "",
+      "title": "가산세를 감면할 정당한 사유가 있는지 여부",
+      "gist": "청구인이 당초 연말정산 시 소득공제 금액을 과다하게 적용한 원인은 외부 상황 변화가 아닌 청구인의 법령에 대한 부지에서 비롯된 것으로 청구주장은 받아들이기 어려움",
+      "producedDate": "2026-08-04",
+      "registeredAt": "20261022082304",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023952",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제48조",
+        "소득세법 제52조"
+      ],
+      "keywords": [
+        "가산세 감면"
+      ],
+      "textLength": 11735,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023952.md"
+    },
+    {
+      "docId": "200000000000023951",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합부동산세",
+      "docNo": "조심-2026-서-2509",
+      "replyNo": "",
+      "title": "「건축법」에 따라 허가를 받아 주택건설에 사용한 토지의 경우에는 「주택법」에 따른 사업계획의 승인을 받을 토지에 해당하지 않더라도 「조세특례제한법」 제104조의19의 종합부동산세 과세특례를 적용하여야 한다는 청구주장의 당부",
+      "gist": "청구법인은 쟁점토지를 2021.6.23. 취득한 후, 「건축법」에 따른 허가를 받아 공동주택 29세대를 신축하였을 뿐, 「주택법」에 따른 사업계획승인을 받은 사실이 확인되지 아니함.",
+      "producedDate": "2026-08-04",
+      "registeredAt": "20261022082243",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023951",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "조세특례제한법 제104조의19"
+      ],
+      "keywords": [
+        "과세특례적용"
+      ],
+      "textLength": 7352,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023951.md"
+    },
+    {
+      "docId": "200000000000023993",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "종합소득세",
+      "docNo": "서울고등법원-2025-누-3882",
+      "replyNo": "",
+      "title": "3% 적용대상 재평가적립금을 감액하여 전환한 이익잉여금을 재원으로 한 배당이 배당소득에서 제외되는지 여부",
+      "gist": "구 소득세법 시행령 제26조의3 제6항이 2014. 2. 21. 신설되어 2025. 2. 28. 개정되기 전까지는, 3% 적용대상 재평가적립금을 자본에 전입하여 주주가 주식 등을 취득하더라도 이를 의제배당소득으로 보지 않아 과세하지 않는 것과 마찬가지로 재평가적립금을 감액하여 받은 배당금도 과세대상인 배당소득에 해당하지 않음",
+      "producedDate": "2026-07-22",
+      "registeredAt": "20261022181719",
+      "sourceOrg": "고등법원",
+      "decision": "국패",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023993",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(국패)",
+      "statutes": [
+        "국세기본법 제14조"
+      ],
+      "keywords": [
+        "재평가적립금; 배당소득"
+      ],
+      "textLength": 10813,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023993.md"
+    },
+    {
+      "docId": "200000000000023955",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합소득세",
+      "docNo": "조심-2025-서-3267",
+      "replyNo": "",
+      "title": "쟁점출연료의 실질귀속자를 청구인으로 보아 과세한 처분의 당부 등",
+      "gist": "출연계약서상 계약의 당사자는 청구인·소속사·제작사이고, 쟁점법인에 정산금을 지급하였다는 사실만으로 쟁점법인과 청구인이 별개의 객체로 소속사에 용역공급을 수행하였다고 볼 수 없어 쟁점소득의 실질귀속자는 청구인임",
+      "producedDate": "2026-07-01",
+      "registeredAt": "20261022082446",
+      "sourceOrg": "조세심판원",
+      "decision": "기타",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023955",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제14조"
+      ],
+      "keywords": [
+        "용역공급"
+      ],
+      "textLength": 14496,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023955.md"
+    },
+    {
+      "docId": "200000000000023939",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "기타",
+      "docNo": "조심-2026-서-0127",
+      "replyNo": "",
+      "title": "청구인을 체납법인의 과점주주로 보아 제2차 납세의무자로 지정하고 납부고지한 처분의 당부",
+      "gist": "체납법인 설립시 청구인의 자금이 아니라 ㅇㅇㅇ이 실질적으로 지배하는 회사로부터 수령한 금액을 주금으로 납입하여 주식을 인수한 것으로 나타나는 점, 청구인이 체납법인의 법인등기부상 사내이사로 등재되어 있으나 체납세액의 납세의무성립일 이전에 사임한 점, ㅇㅇㅇ의 사기죄 공소장에는 ㅇㅇㅇ이 체납법인의 실질 운영자이며, 온라인 P2P 투자 사기에 체납법인을 이용한 것으로 나타나 청구인은 형식상 주주로서 체납법인의 의사결정 등에 영향을 미친 사실이 없는 것으로 보이고, 처분청은 청구인이 체납법인의 경영에 대하여 지배적인 영향력을 행사하였다는 점에 대하여 달리 입증자료를 제시하지 못하는 점 등에 비추어 처분청이 청구인을 체납법인의 과점주주로 보아 체납법인의 제2차 납세의무자로 지정하고, 청구인에게 체납법인의 체납세액을 납부고지한 이 건 처분은 잘못이 있다고 판단됨",
+      "producedDate": "2026-06-01",
+      "registeredAt": "20261022081634",
+      "sourceOrg": "조세심판원",
+      "decision": "인용",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023939",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(인용)",
+      "statutes": [
+        "국세기본법 제14조"
+      ],
+      "keywords": [
+        "2차납세의무"
+      ],
+      "textLength": 6996,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023939.md"
+    },
+    {
+      "docId": "200000000000023940",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "부가가치세",
+      "docNo": "조심-2026-서-0290",
+      "replyNo": "",
+      "title": "쟁점세금계산서가 실제 공급거래 없이 수수된 가공세금계산서인지 여부",
+      "gist": "청구법인이 실물거래를 한 것으로 보기 어려워 사실과 다른 세금계산서에 해당함",
+      "producedDate": "2026-06-01",
+      "registeredAt": "20261022081656",
+      "sourceOrg": "조세심판원",
+      "decision": "일부인용",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023940",
+      "importanceHint": "high",
+      "hintReason": "납세자 인용 계열 결정(일부인용)",
+      "statutes": [
+        "국세기본법 제26조의2"
+      ],
+      "keywords": [
+        "가공세금계산서"
+      ],
+      "textLength": 23911,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023940.md"
+    },
+    {
+      "docId": "200000000000023938",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "상속증여세",
+      "docNo": "조심-2026-서-1603",
+      "replyNo": "",
+      "title": "① 상증령 제49조 제1항 단서는 모법인 상증세법의 위임범위를 벗어난 무효의 규정이므로 이 건 처분은 취소되어야 한다는 청구주장의 당부 ② 25.6.11. 개정된 사무처리규정을 적용하는 것은 위법하다는 청구주장의 당부",
+      "gist": "① 평가기간 경과 후 법정결정기한까지의 기간 중에 감정가액이 새로 존재하게 되는 경우에도, 쟁점단서조항이 정한 요건이 충족되고 그 감정이 객관적이고 합리적인 방식으로 이루어져 해당 감정가액이 객관적 교환가치를 적정하게 반영하고 있다고 인정되는 한 시가로 인정될 수 있음(대법원 2026.5.8. 선고 2024두54348 판결) ② 사무처리규정은 일반적으로 행정조직 내부에서만 효력을 가질 뿐 국민이나 법원을 구속하는 법적효력이 없고, 상증세법령에 따라 쟁점사옥의 감정가액을 시가로 평가한 것을 행정기관에게 부여한 재량권을 남용한 것으로 보기도 어려움(조심 2026서822, 2026.4.28. 등)",
+      "producedDate": "2026-06-01",
+      "registeredAt": "20261022081618",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023938",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "상속세 및 증여세법 시행령 제49조 제1항",
+        "조세특례제한법 제30조의6",
+        "상속세 및 증여세법 제60조"
+      ],
+      "keywords": [
+        "비상장주식, 감정평가"
+      ],
+      "textLength": 10339,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023938.md"
+    },
+    {
+      "docId": "200000000000023935",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "양도소득세",
+      "docNo": "조심-2025-서-4444",
+      "replyNo": "",
+      "title": "청구인을 쟁점부동산의 실제 소유자로 보아 양도소득세를 부과한 처분의 당부",
+      "gist": "1심판결은 청구인이 부동산 처분에 따른 수익을 배분받기로 약정한 것으로 보이고, 실제로도 경제적 이익을 취하였다고 판시한바, 청구인에게 쟁점부동산 처분에 따른 양도차익이 귀속되었다고 볼 여지가 있는 점 등에 비추어, 이 건 처분은 달리 잘못이 없다고 판단됨",
+      "producedDate": "2026-05-13",
+      "registeredAt": "20261022081525",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023935",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제14조"
+      ],
+      "keywords": [
+        "명의신탁"
+      ],
+      "textLength": 10233,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023935.md"
+    },
+    {
+      "docId": "200000000000023937",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "기타",
+      "docNo": "조심-2025-서-4382",
+      "replyNo": "",
+      "title": "청구인은 쟁점법인의 형식상 주주에 불과하고 실제 주주가 따로 있으므로 제2차 납세의무자로 지정하여 납부고지한 처분이 위법하다는 청구구장의 당부",
+      "gist": "청구인이 제시한 증빙에서는 ㅇㅇㅇ이 쟁점법인을 실제 경여한 것으로 볼 수 있는 사실관계가 나타나지 아니하는 등 청구인을 형식상 대표이사라 하기에는 객관적인 입증이 부족해 보이는 점 등에 비추어 이 건 처분은 잘못이 없는 것으로 판단됨",
+      "producedDate": "2026-05-13",
+      "registeredAt": "20261022081601",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023937",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세기본법 제26조의2"
+      ],
+      "keywords": [
+        "2차납세의무"
+      ],
+      "textLength": 8969,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023937.md"
+    },
+    {
+      "docId": "200000000000023936",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "양도소득세",
+      "docNo": "조심-2026-서-1135",
+      "replyNo": "",
+      "title": "양도소득세 계산시 쟁점비용을 쟁점건물만의 필요경비로서 공제해야한다는 청구주장의 당부",
+      "gist": "쟁점비용 중 실제 명도목적으로 지출된 것으로 확인되는 비용은 ㅇㅇㅇ원으로 확인되는 점, ㅇㅇㅇ원의 경우 쟁점부동산의 인도의무를 이행하기 위해 지출하는 명도비용에 해당하므로 이를 쟁점건물에 한정된 필요경비라고 인정하기 어려운 점 등에 비추어, 실제 명도 목적으로 지출된 금액을 쟁점부동산의 공통 양도비용에 해당하는 것으로 보아 쟁점토지 및 쟁점건물의 양도가액에 비례하여 안분계산한 후 쟁점건물에 해당하는 비용만을 필요경비로 공제한 이 건 처분은 달리 잘못이 없다고 판단됨",
+      "producedDate": "2026-04-28",
+      "registeredAt": "20261022081545",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023936",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "소득세법 제97조"
+      ],
+      "keywords": [
+        "명도비용"
+      ],
+      "textLength": 7470,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023936.md"
+    },
+    {
+      "docId": "200000000000023957",
+      "collection": "precedent,precedent_gr",
+      "group": "심판·심사례",
+      "docClassCode": "08",
+      "docClass": "심판청구",
+      "taxType": "종합소득세",
+      "docNo": "조심-2024-서-0327",
+      "replyNo": "",
+      "title": "청구인이 투자일임업을 영위한 것으로 보아 종합소득세 등을 부과한 처분의 당부 등",
+      "gist": "청구인이 위장업체 등을 통해 쟁점수수료를 수취한 내역과, 투자자들에게 이자소득 및 매출영업비를 지급한 내역이 확인되며, 법원에서도 동일한 취지의 청구주장을 배척한 것으로 보이는바, 투자일임업을 영위한 것으로 보아 종합소득세 등을 부과한 처분은 정당함",
+      "producedDate": "2026-04-28",
+      "registeredAt": "20261022082535",
+      "sourceOrg": "조세심판원",
+      "decision": "기각",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023957",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "부가가치세법 제26조"
+      ],
+      "keywords": [
+        "금융투자업"
+      ],
+      "textLength": 16046,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023957.md"
+    },
+    {
+      "docId": "200000000000023943",
+      "collection": "precedent,precedent_gr",
+      "group": "판례",
+      "docClassCode": "09",
+      "docClass": "판례",
+      "taxType": "기타",
+      "docNo": "포항지원-2026-가합-116",
+      "replyNo": "",
+      "title": "증여로서 사해행위에 해당함",
+      "gist": "대리인을 통해 지급한 것이므로, 증여에 해당함",
+      "producedDate": "2026-09-17",
+      "registeredAt": "20261025115953",
+      "sourceOrg": "지방법원",
+      "decision": "국승",
+      "link": "https://taxlaw.nts.go.kr/pd/USEPDA002P.do?ntstDcmId=200000000000023943",
+      "importanceHint": "normal",
+      "hintReason": "",
+      "statutes": [
+        "국세징수법 제25조"
+      ],
+      "keywords": [
+        "증여;사해행위"
+      ],
+      "textLength": 6403,
+      "docFile": "runs/2026-10-25-2/docs/200000000000023943.md"
+    }
+  ]
+}

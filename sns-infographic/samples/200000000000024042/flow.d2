@@ -1,0 +1,52 @@
+grid-rows: 2
+grid-columns: 3
+horizontal-gap: 170
+vertical-gap: 190
+
+classes: {
+  party: {
+    width: 230
+    height: 120
+    style: {
+      fill: "#eff6ff"
+      stroke: "#1d4ed8"
+      font-size: 28
+      border-radius: 10
+    }
+  }
+  step: {
+    width: 230
+    height: 120
+    style: {
+      fill: "#f3f4f6"
+      stroke: "#6b7280"
+      font-size: 28
+      border-radius: 10
+    }
+  }
+  result: {
+    width: 230
+    height: 120
+    style: {
+      fill: "#1d4ed8"
+      stroke: "#1d4ed8"
+      font-color: "#ffffff"
+      font-size: 28
+      bold: true
+      border-radius: 10
+    }
+  }
+}
+
+byung: "丙\n하도급자" {class: party}
+gap: "甲\n대표사 50%" {class: party}
+eul: "乙\n구성원 50%" {class: party}
+credit: "확정신고 시\n대손세액공제" {class: result}
+wait: "부도일부터\n6개월 경과" {class: step}
+bounce: "乙 발행 어음\n부도" {class: step}
+
+byung -> gap: "세금계산서\n대가 전체" {style.font-size: 24}
+gap -> eul: "세금계산서\n지분 50%" {style.font-size: 24}
+eul -> bounce: "대가 전체를 어음으로 지급" {style.font-size: 24}
+bounce -> wait
+wait -> credit

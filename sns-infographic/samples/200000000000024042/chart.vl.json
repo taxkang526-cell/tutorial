@@ -1,0 +1,45 @@
+{
+  "width": 900,
+  "height": 90,
+  "background": "white",
+  "data": {
+    "values": [
+      { "part": "乙 지분 50%: 공제 대상", "share": 50, "order": 1 },
+      { "part": "甲 지분 50%: 회신에서 판단 안 함", "share": 50, "order": 2 }
+    ]
+  },
+  "transform": [
+    { "stack": "share", "as": ["x0", "x1"], "sort": [{ "field": "order" }] },
+    { "calculate": "(datum.x0 + datum.x1) / 2", "as": "mid" }
+  ],
+  "layer": [
+    {
+      "mark": { "type": "bar", "stroke": "white", "strokeWidth": 3 },
+      "encoding": {
+        "x": { "field": "x0", "type": "quantitative", "scale": { "domain": [0, 100] }, "axis": null },
+        "x2": { "field": "x1" },
+        "color": {
+          "field": "order",
+          "type": "nominal",
+          "legend": null,
+          "scale": { "domain": [1, 2], "range": ["#1d4ed8", "#d1d5db"] }
+        }
+      }
+    },
+    {
+      "mark": { "type": "text", "fontSize": 25, "fontWeight": "bold" },
+      "encoding": {
+        "x": { "field": "mid", "type": "quantitative", "scale": { "domain": [0, 100] }, "axis": null },
+        "text": { "field": "part" },
+        "color": {
+          "field": "order",
+          "type": "nominal",
+          "legend": null,
+          "scale": { "domain": [1, 2], "range": ["#ffffff", "#1f2937"] }
+        }
+      }
+    }
+  ],
+  "resolve": { "scale": { "color": "independent" } },
+  "config": { "view": { "stroke": null } }
+}
