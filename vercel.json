@@ -2,6 +2,11 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://hangyeol-tax.vercel.app/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://hangyeol-tax.vercel.app/:path*",
       "permanent": true
